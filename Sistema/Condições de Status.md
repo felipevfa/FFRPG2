@@ -46,7 +46,6 @@ Perícias e atributos que forem utilizados para alguma verificação também tê
 
 * **Cancela com**: Eye Drops, Remedy, Wash ou Esuna.
 
-
 #### Berserk
 
 Durante seu turno, o personagem realiza apenas ações de ataque contra o alvo mais próximo. O ataque causa 50% a mais de dano.
