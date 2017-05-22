@@ -51,3 +51,17 @@ Perícias e atributos que forem utilizados para alguma verificação também tê
 Durante seu turno, o personagem realiza apenas ações de ataque contra o alvo mais próximo. O ataque causa 50% a mais de dano.
 
 * **Cancelado com**: Tranquilizer, Remedy, Wash ou Esuna.
+
+#### Poison
+
+O combatente é afligido por um veneno poderoso, perdendo 10% do valor atual do HP durante a fase de status.
+
+* **Cancelado com**: Antidote, Remedy, Poisona, Wash ou Esuna. 
+
+#### Curse
+
+Uma aura negra se forma ao redor do combatente, impedindo que ele utilize seu Chi. O personagem não pode utilizar Ações de Habilidade até recuperar-se da condição. Ações de Magia, Reação e Suporte não são afetadas. 
+
+Os valores de Espírito, Magia e Vitalidade são reduzidos em 50% para efeitos de teste.
+
+* **Cancelado com**: Holy Water, Remedy, Esuna e Aura.
