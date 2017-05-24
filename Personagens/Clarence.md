@@ -60,7 +60,7 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
 
 ### Equipamento
 
-* **Arma**: Oborotsui [2xFOR + d10] [Toque: Blind]
+* **Arma**: Oborotsuki [2xFOR + d10] [Toque: Blind]
 * **Escudo**: --
 * **Corpo**: Leather Plate [+5 ARM. +3 ARM. M.] [Venda: 55 gil]
 * **Cabeça**: Leather Helm [+3 ARM. +1 ARM. M.] [Venda: 35 gil]
