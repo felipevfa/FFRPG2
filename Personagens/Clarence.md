@@ -11,7 +11,7 @@
 
 1. [Clarence](https://s-media-cache-ak0.pinimg.com/564x/61/91/6b/61916b745b5a9ed5279f0a185c330644.jpg)
 
-**Personalidade**: breve descrição da personalidade do personagem, algo em torno de cinco linhas está bom.  
+**Personalidade**: Clarence é um rapaz simples, educado e muito prestativo. Sempre sonhou em ser um cavaleiro para trazer honra e melhores condições para sua família e, desde pequeno, estudou para isso. Não suporta ver pessoas em apuros e não gosta de tirar proveito dos mais fracos, protegendo-os a todo custo. Às vezes é muito sério e tímido, mas possui um espírito de liderança nato que aflora nos momentos de dificuldade.
 
 **Objetivos**:  
 
