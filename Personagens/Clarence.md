@@ -15,8 +15,7 @@
 
 **Objetivos**:  
 
-* Lista de objetivos do personagem, por mais genéricos que sejam.
-* É opcional.
+* Crescer dentro da Guarda e da Ordem para melhorar as condições da sua família e do seu vilarejo.
 
 ## Citações
 
