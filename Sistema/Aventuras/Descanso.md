@@ -4,7 +4,7 @@ Durante as aventuras, é comum os heróis precisarem de descanso para recuperar 
 
 Contudo, dispondo de tempo e espaço apropriados, os personagens podem deixar suas feridas sararem naturalmente ao fazer pausas ao longo da aventura. Essa pausa é chamada de **Descanso**. Existem vários níveis de Descanso, cada um com requerimentos e efeitos diferentes:
 
-Descanso pode ser afetado pela perícia [Cura]().
+Descanso pode ser afetado pela perícia [Cura](https://github.com/felipevfa/FFRPG2/blob/master/Sistema/Aventuras/Per%C3%ADcia%20Cura.md).
 
 ## Descanso Intensivo
 
