@@ -70,110 +70,66 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 **Arma Rápida: Armas de Haste [5 pontos]**  
 **Descrição**: o personagem consegue utilizar Agilidade ao invés de Força para desferir golpes mortais.  
 
-**Arma Símbolo: Armas de Haste [5 pontos]**
+**Arma Símbolo: Armas de Haste [5 pontos]**  
 **Descrição**: o personagem consegue desferir Acertos Críticos com Armas de Haste ao obter rolagens entre 1 e 15.
 
 ### Desvantagens
 
-**Deficiência Elemental: Trevas [3 pontos]**
-**Descrição**: o personagem possui uma Fraqueza contra o elemento Trevas, recebendo +25% de danos oriundos dele.
+**Deficiência Elemental: Trevas [3 pontos]**  
+**Descrição**: o personagem possui uma Fraqueza contra o elemento Trevas, recebendo +25% de danos oriundos dele.  
 
-**Deficiência Elemental: Terra [3 pontos]**
-**Descrição**: o personagem possui uma Fraqueza contra o elemento Terra, recebendo +25% de danos oriundos dele.
+**Deficiência Elemental: Terra [3 pontos]**  
+**Descrição**: o personagem possui uma Fraqueza contra o elemento Terra, recebendo +25% de danos oriundos dele.  
 
-**Covardia [4 pontos]**
-**Descrição**: ao ser reduzido a 25% do HP máximo, o personagem é tomado por um medo inexplicável e sempre tentará realizar ações de Fuga enquanto seu HP não for restaurado.
+**Covardia [4 pontos]**  
+**Descrição**: ao ser reduzido a 25% do HP máximo, o personagem é tomado por um medo inexplicável e sempre tentará realizar ações de Fuga enquanto seu HP não for restaurado.  
 
 ### Perícias [Aptidão: ]
 
-* **Total**: pontos alocados/pontos totais disponíveis  
-* **Total Específicas (Conhecimentos e Línguas)**: pontos alocados/pontos totais  
+* **Total**: 260/250  
+* **Total Específicas (Conhecimentos e Línguas)**: 0/166 (bloqueado pela amnésia)
 
 #### Gerais
 
-* liste as perícias gerais.
+* **Prontidão**: 52
+* **Acrobacia**: 52
 
 #### Saber
 
-* liste as perícias do saber.
+* **Língua Comum**: 50  
+* **Língua Aegyl**: 50  
+* **Investigação**: 40
 
 #### Artísticas
 
-* liste as perícias artísticas.
+* **Canto**: 20
 
 #### Sociais
 
-* liste as perícias sociais.
+* **Liderança**: 40
 
 #### Técnicas
 
-* liste as perícias técnicas.
+* nenhuma.
 
 #### Ladinas
 
-* liste as perícias ladinas.
+* **Furtividade**: 50
 
 #### Perícias com Armas
 
-* liste as perícias com armas.
+* **Armas de Haste**: 52
 
 #### Selvagens
 
-* liste as perícias selvagens.  
+* nenhuma.
 
-### Nome da Habilidade da Classe (ex. Magia Vermelha, Espada Negra)
+### Arte dos Dragões
 
-Liste as habilidades da seguinte maneira:
-
-```markdown
-**Nome da Habilidade [Nível X] [Custo de MP. Omitir se não houver]**  
-**Tipo:** tipo da habilidade - **Alvo:** alvo, se houver.
-**Descrição:** descrição, adaptada ou não, da habilidade.  
-```
-
-### Magias (omitir campo se o personagem não possuir magias)
-
-Liste as magias da seguinte maneira:
-
-```md
-#### Nível da Magia (ex. Nível 1)
-
-Repita a estrutura abaixo para cada magia dentro do nível:
-
-**Nome da Magia [Custo de MP]**  
-**Escola:** escola da magia - **Tipo:** tipo da magia - **Alvo:** alvo(s), se houver.
-**Reflect**: sim, caso seja afetada por Reflect, não caso contrário.  
-**Descrição:** descrição, adaptada ou não, da magia.  
-```
-
-### Invocações (omitir campo se o personagem não possuir invocações)
-
-Liste as invocações da seguinte maneira:
-
-```md
-**Nome da Invocação [Custo de MP]**  
-**Modificador de HP:** modificador indicado no manual.  
-**Habilidade(s) de Suporte:** listar as habilidades conforme o manual.  
-**Magias:** listar as magias que o summon possui.
-
-**Fórmula de Ataque:** fórmula do ataque básico do summon.  
-
-Para cada habilidade do summon, repetir a estrutura abaixo:
-
-**Nome da Habilidade [Custo de MP, omitir se não houver]**  
-**Tipo:** tipo de habilidade - **Alvo:** tipo de alvo.  
-**Fórmula de Dano**: fórmula de dano da habilidade. Omitir se não houver.
-**Descrição:** descrição da habilidade.  
-```
-
-Caso o personagem seja um *Invocador*, utilizar a seguinte estrutura para listar as invocações:
-
-```md
-**Nome do Summon [Nome da Habilidade] [Custo de MP]**  
-**Tipo:** tipo da habilidade. - **Alvo:** tipo de alvo.
-**Descrição:** descrição da habilidade.
-```
+**Salto [Nível 1]**  
+**Tipo:** lenta (especial) - **Alvo:** único  
+**Descrição:** o Dragoon salta no ar, movendo-se tão rápido que é impossível torná-lo alvo de alguma ação. Na sua próxima iniciativa, o Dragoon aterrissará violentamente sobre um alvo, causando **(200% - Armadura)** pontos de dano físico, atingindo automaticamente. 
 
 ### Inventário  
 
-* liste itens do inventário.
+* [Pedra Misteriosa](https://vignette2.wikia.nocookie.net/finalfantasy/images/a/a2/FFT_Virgo.gif/revision/latest/fixed-aspect-ratio-down/width/240/height/240?cb=20100701205421&fill=transparent)
