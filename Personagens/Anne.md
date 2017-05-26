@@ -86,8 +86,8 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 
 ### Perícias [Aptidão: ]
 
-* **Total**: 260/250  
-* **Total Específicas (Conhecimentos e Línguas)**: 0/166 (bloqueado pela amnésia)
+* **Total**: 250/250  
+* **Total Específicas (Conhecimentos e Línguas)**: 50/166 (bloqueado pela amnésia)
 
 #### Gerais
 
