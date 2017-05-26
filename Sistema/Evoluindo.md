@@ -47,6 +47,6 @@ E assim segue, a cada dois pontos o modificador aumenta em 5%. Ou seja:
 
     VIT = 13
 
-    Modificador = 13/2 * 5%
+    Modificador = Teto[13/2] * 5%
                 = 7 * 5%  
                 = 35%
