@@ -84,7 +84,7 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 **Covardia [4 pontos]**  
 **Descrição**: ao ser reduzido a 25% do HP máximo, o personagem é tomado por um medo inexplicável e sempre tentará realizar ações de Fuga enquanto seu HP não for restaurado.  
 
-### Perícias [Aptidão: ]
+### Perícias [Aptidão: Armas]
 
 * **Total**: 250/250  
 * **Total Específicas (Conhecimentos e Línguas)**: 50/166 (bloqueado pela amnésia)
