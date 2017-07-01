@@ -1,18 +1,16 @@
-## Materiais
+# Materiais
 
-Materiais são os componentes utilizados para criar coisas, como Espadas, Jóias, Roupas etc. 
+Materiais são os componentes utilizados para criar coisas, como Espadas, Jóias, Roupas etc. **A lista de materiais por Tier pode ser conferida das páginas 234 até 241 do Manual 3.5**
 
-**A lista de materiais por Tier pode ser conferida das páginas 234 até 241 do Manual 3.5**
-
-### Pontos de Ofício
+## Pontos de Ofício
 
 Apesar de existirem tipos diferentes de materiais, todos eles são medidos em uma unidade abstrata chamada **Pontos de Ofício** (CP). O que eles representam variam dependendo do tipo de projeto. Por exemplo, CP pode representar minério utilizado para forjar uma armadura.
 
-### Tier dos Materiais
+## Tier dos Materiais
 
 Apesar de cada material ter sua peculiaridade descritiva (barras de ferro, pedaços de madeira etc), na prática, consideramos apenas seu tipo e seu Tier para os fins de criação.
 
-### Tipos de Materiais
+## Tipos de Materiais
 
 Existem cinco tipos de materiais utilizados pelas perícias do RPG:
 
@@ -32,7 +30,7 @@ Esses materiais são divididos em três grandes tipos:
 * Materiais Especiais
 * Materiais Alquímicos
 
-#### Materiais Básicos
+### Materiais Básicos
 
 São utilizados para criação de itens comuns e equipamentos. São encontrados com relativa facilidade nas lojas, mas encarecem rapidamente conforme seu Tier.
 
@@ -49,7 +47,7 @@ São utilizados para criação de itens comuns e equipamentos. São encontrados 
 | 9    | Artefato        | ---        |
 | 10   | Artefato        | ---        |
 
-#### Materiais Especiais
+### Materiais Especiais
 
 São os que dão aos equipamentos suas propriedades únicas. Devido a sua natureza incomum, eles são bem mais raros e difíceis de encontrar. Costumam ser Gemas ou Espólios.
 
@@ -66,7 +64,7 @@ São os que dão aos equipamentos suas propriedades únicas. Devido a sua nature
 | 9    | Artefato        | ---        |
 | 10   | Artefato        | ---        |
 
-#### Materiais Alquímicos
+### Materiais Alquímicos
 
 *Alquimia*, devido a sua natureza, requer materiais específicos para a prática. Os materiais alquímicos costumam ser espólios de monstros e plantas encontrados em locais remotos de difícil acesso.
 
@@ -81,7 +79,7 @@ São os que dão aos equipamentos suas propriedades únicas. Devido a sua nature
 | 7    | 30%             | 150 Gil/CP  |
 | 8    | 20%             | 300 Gil/CP  |
 
-### Comprando materiais
+## Comprando materiais
 
 Materiais podem ser comprados como qualquer outra peça de equipamento, sendo alvo das mesmas restrições de disponibilidade. Além disso, eles são sempre vendidos em "blocos", da seguinte forma:
 

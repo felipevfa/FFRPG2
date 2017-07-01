@@ -1,12 +1,12 @@
-## Criações Práticas
+# Criações Práticas
 
 As criações não se restrigem a projetos complexos de muita utilidade. Personagens com a perícia *Ofícios* (ou outra relacionada) podem usar seus conhecimentos para construir coisas menores e mais mundanas, que não possuem aplicação real em combate, mas podem ser úteis no dia-a-dia. Independente da perícia utilizada, os passos são os mesmos:
 
-### Materiais
+## Materiais
 
 Todas as criações práticas utilizam *materiais básicos*. O custo do projeto dependerá do material utilizado no item, conforme explicado em [Materiais](https://github.com/felipevfa/FFRPG2/blob/master/Sistema/Perícias%20Técnicas/Materiais.md).
 
-### Tamanho
+## Tamanho
 
 Depois, define-se uma **Grade de Tamanho**, que varia de 1 a 10, para o projeto, influenciando no custo conforme abaixo:
 
@@ -25,7 +25,7 @@ Depois, define-se uma **Grade de Tamanho**, que varia de 1 a 10, para o projeto,
 
 Projetos de Grade superior a 10 precisam de uma equipe de trabalho, pois um único artesão não será capaz de concluí-lo.
 
-### Complexidade
+## Complexidade
 
 Por fim, define-se a **Complexidade** do projeto, que varia também de 1 a 10. A complexidade aplica modificadores de tempo e de CdS para o projeto: 
 
@@ -42,23 +42,23 @@ Por fim, define-se a **Complexidade** do projeto, que varia também de 1 a 10. A
 | 9                 | Mecanismo magistral   | 4                    | -30                |
 | 10                | Sem comparações       | 5                    | -40                |
 
-### Tempo necessário
+## Tempo necessário
 
 Define-se o tempo do projeto como **(Horas de Trabalho x Modificador de Tempo). As horas são definidas pela grade de tamanho e o modificador, pela grade de complexidade.
 
-### Teste da perícia
+## Teste da perícia
 
 Por fim, realiza-se um teste da perícia relevante, aplicando o modificador de complexidade. As consequencias de falhas são as mesmas explicadas nas [regras gerais](https://github.com/felipevfa/FFRPG2/blob/master/Sistema/Perícias%20Técnicas/Regras%20Gerais.md) das perícias técnicas.
 
-### Vendendo criações
+## Vendendo criações
 
 A venda de criações costuam ser 120% do valor original do item, não levando em conta dinheiro gasto a mais devido a falhas.
 
-#### Obras-primas
+### Obras-primas
 
 Acertos críticos levam a criação das chamadas **Obras Primas**, itens magníficos que podem ser vendidos por 150% do preço do projeto.
 
-#### Mérito artístico
+### Mérito artístico
 
 Personagens com a perícia *Artes* podem adicionar valor artístico ao projeto, adicionando um modificador de CdS extra ao seu teste de perícia:
 
@@ -66,7 +66,7 @@ Personagens com a perícia *Artes* podem adicionar valor artístico ao projeto, 
 * **Aumentar em 25% o valor do projeto**: 0
 * **Aumentar em 50% o valor do projeto**: -20
 
-### Ferramentas
+## Ferramentas
 
 Personagens com a perícia *Ofícios* podem criar ferramentas para auxiliá-los nas mais diversas tarefas.
 

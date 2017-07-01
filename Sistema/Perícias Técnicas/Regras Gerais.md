@@ -1,14 +1,14 @@
-## Perícias Técnicas
+# Perícias Técnicas
 
 Apesar de cada perícia técnica possuir suas peculiaridades, a maioria segue um conjunto básico de regras.
 
-### Tempo de Confecção
+## Tempo de Confecção
 
 Para criar algo, os personagens devem gastar tempo, isto é, **horas de trabalho**. Uma hora de trabalho representa uma hora initerrupta de trabalho em um local adequado para a criação, isto é, que contém os materiais e ferramentas necessários para isso. *Um dia inteiro de trabalho não rende mais do que 10 horas de trabalho*.
 
 É possível dividir as horas de trabalho entre projetos de ofícios diferentes, mas as horas aplicadas serão reduzidas pelo tempo de limpar e preparar o ambiente para trabalhar nos diferentes ofícios (ex. trabalhar em projetos distintos, um de Invenção e outro de Ofício: Forja).
 
-### Trabalho em Grupo
+## Trabalho em Grupo
 
 É possível pedir ajuda a amigos ou assistentes para reduzir o tempo de confecção da criação, desde que o personagem possua a perícia *Ofícios* adequada. Para tal, decide-se com quanto tempo o assistente contribuirá, o que determina um modificador de condição conforme abaixo:
 
@@ -21,11 +21,11 @@ Para criar algo, os personagens devem gastar tempo, isto é, **horas de trabalho
 
 Em caso de sucesso, as horas contribuídas são adicionadas às horas de trabalho do projeto. Uma falha contribui com apenas 50% do tempo investido; uma falha crítica significa que nenhuma hora foi aproveitada. Acertos críticos não surtem efeito nesse teste.
 
-### Materiais
+## Materiais
 
 A maioria dos projetos utiliza materiais básicos, especiais e alquímicos para ser confeccionados. Um projeto precisa de uma certa quantidade de **Pontos de Criação (CP)** para ser confeccionado. Do mesmo modo, cada material possui uma quantidade de CP associada. Então, o personagem precisa possuir a quantidade de CP em materiais para tentar criar seu projeto.
 
-#### Separação
+### Separação
 
 Materiais normalmente são obtidos em lojas, missões ou através de extrações. Contudo, é possível separar itens existentes em materiais de confecção. *Separação* permite ao personagem quebrar *Armas e Armaduras* em materiais.
 
@@ -51,7 +51,7 @@ O resultado do teste é interpretado assim:
 
 Acertos e falhas críticos não modificam estas interpretações.
 
-#### Teste de Perícia
+### Teste de Perícia
 
 Enfim, realiza-se um teste da perícia apropriada para verificar o sucesso da criação do projeto. Os modificadores pertinentes são:
 
