@@ -5,9 +5,9 @@
 >Se você se considera forte o suficiente para lutar contra um pequeno exército de monstros, vá em frente, a recompensa vale a pena.
 -- Jinjin, dono da Lorde de Bronze.
 
-**Rank:** A
-**Nível Recomendado do Grupo:** 9
-**Nível Recomendado (Individual):** 15
+**Rank:** A  
+**Nível Recomendado do Grupo:** 9  
+**Nível Recomendado (Individual):** 15  
 
 ## Recompensas
 

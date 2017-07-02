@@ -5,9 +5,9 @@
 >Já estou começando a falhar em meus afazeres diários. Por favor, alguém descubra de onde vem essas vozes e façam-nas parar!
 -- Ellys, uma camponesa dos arredores de Gariland.
 
-**Rank:** D
-**Nível Recomendado do Grupo:** 7
-**Nível Recomendado (Individual):** 10
+**Rank:** D  
+**Nível Recomendado do Grupo:** 7  
+**Nível Recomendado (Individual):** 10  
 
 ## Recompensas
 

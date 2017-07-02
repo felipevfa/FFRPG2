@@ -7,9 +7,9 @@
 >Preciso deles para ontem!
 -- Sísifo, um alquimista de Gariland.
 
-**Rank:** E
-**Nível Recomendado do Grupo:** 1
-**Nível Recomendado (Individual):** 1
+**Rank:** E  
+**Nível Recomendado do Grupo:** 1  
+**Nível Recomendado (Individual):** 1  
 
 ## Recompensas
 
