@@ -4,7 +4,7 @@
 >
 >Os itens que preciso crescem nos arredores de Gariland então deve ser bem fácil encontrá-los. São Cogumelos Vermelhos e ervas medicinais comuns, alguém com conhecimento em Alquimia certamente os reconhecerá com facilidade.
 >
->Preciso deles para ontem!
+>Preciso deles para ontem!  
 -- Sísifo, um alquimista de Gariland.
 
 **Rank:** E  

@@ -2,7 +2,7 @@
 
 >Todas as noites a mesma coisa. Vindo sabe-se lá de onde, uma cantoria insuportável! No começo, eu até achava a voz bonita, mas ela fica cada vez mais aguda e cada vez mais insuportável! Eu não aguento mais! Eu preciso dormir.
 >
->Já estou começando a falhar em meus afazeres diários. Por favor, alguém descubra de onde vem essas vozes e façam-nas parar!
+>Já estou começando a falhar em meus afazeres diários. Por favor, alguém descubra de onde vem essas vozes e façam-nas parar!  
 -- Ellys, uma camponesa dos arredores de Gariland.
 
 **Rank:** D  
