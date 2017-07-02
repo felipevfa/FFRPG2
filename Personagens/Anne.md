@@ -9,7 +9,9 @@
 
 1. [Anne](http://wallpapers-best.com/uploads/posts/2015-12/17_no_game_no_life.jpg)
 
-**Personalidade**: Anne é uma garota divertida e curiosa. Está sempre querendo saber mais sobre a cultura de Ivalice e, também, afim de explorar os mais diversos e inóspitos lugares. Gosta de exibir sua habilidade com a lança e às vezes sua autoconfiança a coloca em apuros. Contudo, quando vê-se em perigo real, algo em sua mente a amedontra, fazendo-a fugir para segurança o mais rápido possível.
+**Personalidade**: Anne é uma garota divertida e curiosa. Está sempre querendo saber mais sobre a cultura de Ivalice e, também, afim de explorar os mais diversos e inóspitos lugares.
+
+Gosta de exibir sua habilidade com a lança e às vezes sua autoconfiança a coloca em apuros. Contudo, quando vê-se em perigo real, algo em sua mente a amedontra, fazendo-a fugir para segurança o mais rápido possível.
 
 ## Objetivos**
 
