@@ -27,22 +27,22 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 
 ## Ficha Técnica
 
-**Nível**: 2  
-**Experiência**: 220/1000  
+**Nível**: 3  
+**Experiência**: 292/1500  
 **Classe de Personagem**: Dragoon  
 **Tipo de Classe**: Guerreiro  
-**Nível de Classe**: 2  
+**Nível de Classe**: 3  
 
-**HP**: 39 (d10)  
+**HP**: 45 (d10)  
 **MP**: n/a  
 
-**Gil:** 30
+**Gil:** 97
 
-## Atributos [Total: 41 pontos]
+## Atributos [Total: 42 pontos]
 
 * **Força**: 5 [Máximo: 25] [Valor de Teste: 25]  
-* **Vitalidade**: 5 [Máximo: 22] [Valor de Teste: 25]  
-* **Agilidade**: 13 + 1 = 14 [Máximo: 20] [Valor de Teste: 49]*  
+* **Vitalidade**: 6 [Máximo: 22] [Valor de Teste: 28]  (*)
+* **Agilidade**: 13 + 1 = 14 [Máximo: 20] [Valor de Teste: 49]  
 * **Velocidade**: 12 [Máximo: 20] [Valor de Teste: 46]  
 * **Magia**: 1 [Máximo: 18] [Valor de Teste: 13]  
 * **Espírito**: 5 [Máximo: 15] [Valor de Teste: 25]  
@@ -51,11 +51,11 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 
 * **Evasão**: 24 + 4 = 28  
 * **Evasão Mágica**: 6 + 1 = 7  
-* **Armadura**: 7
-* **Armadura Mágica**: 4
+* **Armadura**: 7 + 15% = 8
+* **Armadura Mágica**: 4 + 15% = 5
 * **Destreza**: 80
 * **Mente**: 54
-* **Precisão**: 112
+* **Precisão**: 114
 * **Precisão Mágica**: 104
 
 ### Equipamento
@@ -84,22 +84,22 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 **Descrição**: o personagem possui uma Fraqueza contra o elemento Terra, recebendo +25% de danos oriundos dele.  
 
 **Covardia [4 pontos]**  
-**Descrição**: ao ser reduzido a 25% do HP máximo, o personagem é tomado por um medo inexplicável e sempre tentará realizar ações de Fuga enquanto seu HP não for restaurado.  
+**Descrição**: ao ser reduzido a 25% do HP máximo, o personagem é tomado por um medo inexplicável e sempre tentará realizar ações de Fuga enquanto seu HP não for rxwestaurado.  
 
 ### Perícias [Aptidão: Armas]
 
-* **Total**: 250/250  
-* **Total Específicas (Conhecimentos e Línguas)**: 50/166 (bloqueado pela amnésia)
+* **Total**: 260/260  
+* **Total Específicas (Conhecimentos e Línguas)**: 54/172 (bloqueado pela amnésia)
 
 #### Gerais
 
-* **Prontidão**: 52
-* **Acrobacia**: 52
+* **Prontidão**: 54
+* **Acrobacia**: 54
 
 #### Saber
 
-* **Língua Comum**: 50  
-* **Língua Aegyl**: 50  
+* **Língua Comum**: 52  
+* **Língua Aegyl**: 52  
 * **Investigação**: 40
 
 #### Artísticas
@@ -108,7 +108,7 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 
 #### Sociais
 
-* **Liderança**: 40
+* **Liderança**: 44
 
 #### Técnicas
 
@@ -120,7 +120,7 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 
 #### Perícias com Armas
 
-* **Armas de Haste**: 52
+* **Armas de Haste**: 54
 
 #### Selvagens
 
@@ -135,3 +135,4 @@ Anne não sabe muito sobre seu passado. Ela despertou no Castelo de Riovanes sem
 ### Inventário  
 
 * [Pedra Misteriosa](https://vignette2.wikia.nocookie.net/finalfantasy/images/a/a2/FFT_Virgo.gif/revision/latest/fixed-aspect-ratio-down/width/240/height/240?cb=20100701205421&fill=transparent)
+* 3x Tônico [Recupera 25 HP] [Venda: 12 gil]

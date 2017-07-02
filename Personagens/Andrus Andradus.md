@@ -18,7 +18,7 @@
 ## Ficha Técnica
 
 **Nível**: 4  
-**Experiência**: 639/2000  
+**Experiência**: 1171/2000  
 **Classe de Personagem**: Adepto.  
 **Tipo de Classe**: Cavaleiro das Runas  
 **Nível de Classe**: 4  
@@ -26,7 +26,7 @@
 **HP**: 85 (d10)  
 **MP**: 46 (d6)  
 
-**Gil:** 435  
+**Gil:** 502  
 
 ### Atributos [Total: 43 pontos]
 

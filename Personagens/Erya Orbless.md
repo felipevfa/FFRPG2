@@ -22,7 +22,7 @@
 ## Ficha Técnica
 
 **Nível**: 4  
-**Experiência**: 552/2000  
+**Experiência**: 1624/2000  
 **Classe de Personagem**: Maga  
 **Tipo de Classe**: Sábia  
 **Nível de Classe**: 4  
@@ -30,7 +30,7 @@
 **HP**: 77 (d6)  
 **MP**: 62 (d10)  
 
-**Gil:** 604  
+**Gil:** 671  
 
 ### Atributos [Total: 43 pontos]
 
@@ -167,3 +167,4 @@ n/a
 
 * 2x Poção [Restaura 50 HP] [Venda: 25 gil]
 * 2x Extrato [Restaura 15 MP] [Venda: 37 gil]
+* 1x Faca da Cegueira [2x(AGI/FOR) + d6] [Toque: Blind] [Venda: 66 gil]

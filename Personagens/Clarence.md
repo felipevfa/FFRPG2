@@ -28,7 +28,7 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
 ## Ficha Técnica
 
 **Nível**: 4  
-**Experiência**: 497/2000  
+**Experiência**: 1569/2000  
 **Classe de Personagem**: Samurai  
 **Tipo de Classe**: Guerreiro  
 **Nível de Classe**: 4  
@@ -36,7 +36,7 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
 **HP**: 64 (d10)  
 **MP**: n/a  
 
-**Gil:** 442
+**Gil:** 509  
 
 ### Atributos [Total: 43 pontos]
 
