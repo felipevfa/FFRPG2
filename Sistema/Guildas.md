@@ -28,6 +28,10 @@ Normalmente, as guildas registram quatro conselheiros:
 
 É possível criar cargos de conselheiro para desempenhar qualquer função considerada relevante pelo mestre da guilda. Na ausência destes, o mestre da guilda costuma desempenhar todas as funções.
 
+## Fama de Guilda
+
+Guildas, assim como os personagens, possuem *níveis*, mas ao invés de experiência, elas evoluem com *Pontos de Fama. Ao adquirir níveis, as guildas conseguem *bônus* não somente para si, mas também para seus membros.
+
 ## Bônus de Guilda
 
 Em breve...
