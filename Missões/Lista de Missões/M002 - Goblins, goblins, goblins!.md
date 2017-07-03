@@ -1,7 +1,10 @@
 # M002 - Goblins, goblins, goblins
 
->Preciso de ajuda! Aparentemente, minhas hortaliças são muito apreciadas pelos Goblins, aquela raça maldita de monstros! Todos os dia eles vêm à minha fazenda para roubar meus vegetais, isso quando não destroem tudo! Preciso de alguém para exterminá-los!  
--- Matthew, um fazendeiro de Gariland.
+>Sou Matthew, um dos fazendeiros que provê suprimentos para Gariland e para alguns vilarejos menores. Recentemente, minha fazenda está sendo atacada por um grupo de Goblins muito traiçoeiro; eles destroem minhas hortaliças e roubam minhas frutas! Além de assustarem meus Chocobos!
+>
+>Preciso de alguém para dar cabo deles, por favor!
+
+-- Matthew.
 
 **Rank:** D  
 **Nível Recomendado do Grupo:** 4  
@@ -10,4 +13,4 @@
 ## Recompensa
 
 * 3 pontos de fama
-* 2000 gil
+* 1000 gil

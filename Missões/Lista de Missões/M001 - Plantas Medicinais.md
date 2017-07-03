@@ -1,17 +1,19 @@
 # M001 - Plantas Medicinais
 
->Eu preciso coletar alguns cogumelos e plantas medicinais para fazer os remédios que uma sede da igreja me pediu mas estou sem tempo devido ao grande número de pedidos para atender.
+>Sou Sísifo, um humilde boticário situado em Gariland. Estou com uma demanda inesperada por remédios e, infelizmente, preciso trabalhar dia e noite na produção das poções.
 >
->Os itens que preciso crescem nos arredores de Gariland então deve ser bem fácil encontrá-los. São Cogumelos Vermelhos e ervas medicinais comuns, alguém com conhecimento em Alquimia certamente os reconhecerá com facilidade.
+>Contudo, estou ficando sem ingredientes e não tenho tempo de procurá-los. Gostaria que algum mercenário, de preferência com certo conhecimento de Alquimia, coletasse os ingredientes que preciso nos arredores de Gariland.
 >
->Preciso deles para ontem!  
+> Estou enviando alguns desenhos dos ingredientes que preciso: 5 Cogumelos Vermelhos, 4 Ecos Verdes e 2 Flores de Blossema.
+
 -- Sísifo, um alquimista de Gariland.
 
 **Rank:** E  
 **Nível Recomendado do Grupo:** 1  
 **Nível Recomendado (Individual):** 1  
+**Local da Missão:** Arredores da floresta de Siedge Weald
 
 ## Recompensas
 
-* 1 ponto(s) de fama.
-* 1000 Gil
+* 1 ponto de fama
+* 500 gil
