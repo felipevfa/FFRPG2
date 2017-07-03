@@ -16,6 +16,7 @@ Todas as missões possuem algumas características:
 * **Nível Recomendado:** um indicativo do quão experiente o aventureiro (ou grupo) precisa ser para concluir a missão sem muitos riscos.
 * **Descrição:** uma breve descrição do serviço solicitado e indicação do contratante.
 * **Recompensas:** e, por fim, a lista de recompensas oferecidas.
+* **Taxa:** uma quantidade de gil que a Companhia cobra para registrar o mercenário (ou grupo) como participante oficial da missão, reservando a recompensa até indicação de sucesso ou falha.
 
 As recompensas costumam variar de missão para missão, mas a Companhia provê uma estimativa baseada no rank da missão:
 

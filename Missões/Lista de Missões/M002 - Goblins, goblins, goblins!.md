@@ -10,6 +10,8 @@
 **Nível Recomendado do Grupo:** 4  
 **Nível Recomendado (Individual):** 6  
 
+**Taxa:** 300 gil
+
 ## Recompensa
 
 * 3 pontos de fama

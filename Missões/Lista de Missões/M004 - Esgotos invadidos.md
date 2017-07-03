@@ -10,6 +10,8 @@
 **Nível Recomendado do Grupo:** 9  
 **Nível Recomendado (Individual):** 15  
 
+**Taxa:** 450 gil
+
 ## Recompensas
 
 * 4 pontos de Fama

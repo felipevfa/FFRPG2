@@ -13,6 +13,8 @@
 **Nível Recomendado (Individual):** 1  
 **Local da Missão:** Arredores da floresta de Siedge Weald
 
+**Taxa:** 150 gil
+
 ## Recompensas
 
 * 1 ponto de fama
