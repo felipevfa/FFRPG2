@@ -46,8 +46,8 @@
 
  ### Estatísticas de Combate 
  
-- **HP**: 80 [Base de Vida: 1]
-- **MP**: 7 [Base de Mana: 0.5]
+- **HP**: 160 [Base de Vida: 1]
+- **MP**: 10 [Base de Mana: 0.5]
 
 * **Precisão**: 99
 * **Precisão Mágica**: 113
