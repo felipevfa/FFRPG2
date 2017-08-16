@@ -3,12 +3,11 @@
 ## Perfil do Monstro
 
 - **Nome**: Sahagin
-- **Categoria(s)**: 
-    * Aquático
+- **Categoria(s)**: Aquático
 - **Família do Monstro**: Sahagin
 - **Localização**: Oceanos, Pântanos, Rios/Lagos, Ruínas
 
-* **Aparência**: procurar imagem.
+* **Aparência**: [imagem ilustrativa](https://vignette4.wikia.nocookie.net/finalfantasy/images/3/3f/FFXIII_enemy_Sahagin.png/revision/latest?cb=20140221151539)
 
 - **Tamanho**: médio.
 - **Inteligência**: Primitiva
