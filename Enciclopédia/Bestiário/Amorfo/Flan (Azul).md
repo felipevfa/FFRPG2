@@ -30,8 +30,8 @@
 
 * **Nível**: 5
 
-- **XP:** (100 + 15 + 10 - 5 + 7 - 9) x 5
-- **Gil**: (25 + 7 + 5 - 2 + 3 - 4) x 5
+- **XP:** 690 [XP Base: 100]
+- **Gil**: 210 [Gil Base: 25]
 
 * **Tipo**: Notório
 
@@ -46,15 +46,15 @@
 
  ### Estatísticas de Combate 
  
-- **HP**: 160
+- **HP**: 160 
 - **MP**: 45
 
 * **Precisão**: 91
 * **Precisão Mágica**: 121
 * **Destreza**: 61
 * **Mente**: 71
-* **Armadura**: 14
-* **Armadura Mágica**: 5
+* **Armadura**: 14 [Base de Armadura: 2]
+* **Armadura Mágica**: 5 [Base de Armadura Mágica: 0.5]
 * **Evasão**: 11
 * **Evasão Mágica**: 114
 
@@ -62,7 +62,12 @@
 
 ### Ataques
 
-**Investida**
+**Investida**  
+- **Escala de Dano:** d8  
+- **Alvo:** Único  
+- **Fórmula:** 3xFOR + d8  
+**Modificador de XP:** +20  
+**Modificador de Gil:** +8
 
 ### Habilidades de Ação
 
@@ -89,10 +94,14 @@ O Flan consegue mover-se mais rápido na água, usando do seu corpo amorfo para 
 ### Habilidades de Suporte
 
 **Elemento Resistência: Água**  
-O Flan Azul possui resistência ao elemento água, recebendo *25% a menos de dano* de ataques oriundos desse elemento.
+O Flan Azul possui resistência ao elemento água, recebendo *25% a menos de dano* de ataques oriundos desse elemento.  
+**Modificador de XP:** +7  
+**Modificador de Gil:** +3
 
 **Elemento Fraqueza: Trovão**  
-O Flan Azul possui fraqueza ao elemento trovão, recebendo *25% a mais de dano* de ataques oriundos desse elemento.
+O Flan Azul possui fraqueza ao elemento trovão, recebendo *25% a mais de dano* de ataques oriundos desse elemento.  
+**Modificador de XP:** -9  
+**Modificador de Gil:** -4
 
 [Elemento Fraqueza: Trovão]
 
