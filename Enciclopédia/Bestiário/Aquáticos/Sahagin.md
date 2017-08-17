@@ -35,17 +35,17 @@
 
 * **Tipo**: Notório [XP Base: 100 / Gil Base: 25]
 
- ### Atributos [Total: 40]
+### Atributos [Total: 40]
 
- - **Força**: 8
- - **Vitalidade**: 8
- - **Velocidade**: 10
- - **Agilidade**: 7
- - **Magia**: 4
- - **Espírito**: 3
+- **Força**: 8
+- **Vitalidade**: 8
+- **Velocidade**: 10
+- **Agilidade**: 7
+- **Magia**: 4
+- **Espírito**: 3
 
- ### Estatísticas de Combate 
- 
+### Estatísticas de Combate
+
 - **HP**: 160 [Base de Vida: 1]
 - **MP**: 10 [Base de Mana: 0.5]
 
@@ -62,12 +62,13 @@
 
 ### Ataques
 
-**Investida**  
+#### Investida
+
 - **Escala de Dano:** d8  
 - **Alvo:** Único  
 - **Fórmula:** 3xFOR + d8  
-**Modificador de XP:** +20  
-**Modificador de Gil:** +8
+- **Modificador de XP:** +20  
+- **Modificador de Gil:** +8
 
 [Lâminas de Água] [Nível 15]  
   
