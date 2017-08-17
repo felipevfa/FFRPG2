@@ -123,7 +123,12 @@ nenhum.
 
 | Rolagem   | Recompensa      |
 |:---------:|:---------------:|
-| 51 - 100  |                 |
-| 25 - 50   |                 |
-| 08 - 24   |                 |
-| 01 - 07   |                 |
+| 51 - 100  | Tonic           |
+| 25 - 50   | Potion          |
+| 08 - 24   | Tincture        |
+| 01 - 07   | Blind Knife     |
+
+- **Tonic:** Recupera 25 HP. [Venda: 12 gil]
+- **Potion:** Recupera 50 HP. [Venda: 25 gil]
+- **Tincture:** Recupera 15 MP. [Venda: 37 gil]
+- **Blind Knife:** [2xFOR/AGI + d6] [Blind: Toque] [Faca] [Venda:  66 gil]

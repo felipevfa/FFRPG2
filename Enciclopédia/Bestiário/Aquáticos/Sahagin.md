@@ -130,7 +130,7 @@ nenhum.
 | 08 - 24   | Barbatana Intacta [10 CP / Tier 3] |
 | 01 - 07   | Silence Staff                      |
 
-* **Escamas de Sahagin:** as escamas azuladas de um Sahagin. São muito procuradas para a confecção de escudos e armaduras.
-* **Potion:** Recupera 50 HP.
-* **Barbatana Intacta:** uma barbatana de Sahagin que ficou intacta após a batalha. Muito procurada para a confecção de acessórios impulsionadores de magia.
+* **Escamas de Sahagin:** as escamas azuladas de um Sahagin. São muito procuradas para a confecção de escudos e armaduras. [Venda: 50 gil]
+* **Potion:** Recupera 50 HP. [Venda: 12 gil]
+* **Barbatana Intacta:** uma barbatana de Sahagin que ficou intacta após a batalha. Muito procurada para a confecção de acessórios impulsionadores de magia. [Venda: 300 gil]
 * **Silence Staff:** [2 x FOR/MAG + d8] [Silence: Toque] [Cajado] [Venda: 86 gil]
