@@ -36,7 +36,7 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
 **HP**: 64 (d10)  
 **MP**: n/a  
 
-**Gil:** 509  
+**Gil:** 359  
 
 ### Atributos [Total: 43 pontos]
 
