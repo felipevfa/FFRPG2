@@ -5,7 +5,7 @@
 - **Família do Monstro**: Goblin 
 - **Localização**: Cidades, Colinas, Deserto, Florestas, Masmorras, Montanhas, Pântanos, Planícies, Ruínas, Selvas, Subterrâneo, Tundra
 
-* **Aparência**: [imagem ilustrativa][https://vignette2.wikia.nocookie.net/finalfantasy/images/e/ef/Goblin.jpg/revision/latest?cb=20070810094014]
+* **Aparência**: [imagem ilustrativa](https://vignette2.wikia.nocookie.net/finalfantasy/images/e/ef/Goblin.jpg/revision/latest?cb=20070810094014)
 
 - **Tamanho**: Pequeno
 - **Inteligência**: Média
@@ -68,7 +68,7 @@
 - **Modificador de XP:** +8
 - **Modificador de Gil:** +3
 
-[Golpe de Faca] [Nível 10]
+[Golpe de Faca] [Nível 10]  
 [Punho Goblin] [Nível 20]
 
 ### Habilidades de Ação
