@@ -1,6 +1,4 @@
-# Modelo de Monstros
-
-## Perfil do Monstro
+# Perfil do Monstro
 
 - **Nome**: Goblin
 - **Categoria(s)**: Humanóide
@@ -17,7 +15,7 @@
 * **Frequência**: Comum
 * **Medida de Encontro**: 2/1
 
-### Sentidos
+## Sentidos
 
 - **Visão Diurna**: 70
 - **Visão Noturna**: 60

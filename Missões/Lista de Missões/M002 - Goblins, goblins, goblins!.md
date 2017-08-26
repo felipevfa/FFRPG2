@@ -9,6 +9,7 @@
 **Rank:** D  
 **Nível Recomendado do Grupo:** 4  
 **Nível Recomendado (Individual):** 6  
+**Local da Missão:** Mandalia Plains  
 
 **Taxa:** 300 gil
 
