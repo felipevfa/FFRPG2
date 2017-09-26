@@ -1,3 +1,3 @@
-# FFRPG2
+# Final Fantasy RPG
 
-Repositório contendo informações do segundo FFRPG narrado por mim. 
+Este repositório é uma coleção das informações utilizadas para narrar as campanhas de Final Fantasy RPG que jogo com meus amigos.
