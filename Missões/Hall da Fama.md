@@ -1,3 +1,0 @@
-# Hall da Fama
-
-Em breve...

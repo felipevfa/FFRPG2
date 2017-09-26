@@ -1,3 +1,0 @@
-# Índice de Missões
-
-Em breve...
