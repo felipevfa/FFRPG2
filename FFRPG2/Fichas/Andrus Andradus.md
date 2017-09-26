@@ -17,23 +17,23 @@
 
 ## Ficha Técnica
 
-**Nível**: 4  
-**Experiência**: 1171/2000  
+**Nível**: 5  
+**Experiência**: 899/2500  
 **Classe de Personagem**: Adepto.  
 **Tipo de Classe**: Cavaleiro das Runas  
-**Nível de Classe**: 4  
+**Nível de Classe**: 5  
 
-**HP**: 85 (d10)  
-**MP**: 46 (d6)  
+**HP**: 95 (d10)  
+**MP**: 48 (d6)  
 
-**Gil:** 502  
+**Gil:** 748  
 
-### Atributos [Total: 43 pontos]
+### Atributos [Total: 44 pontos]
 
-* **Força**: 11 [Máximo: 22] [Valor de Teste: 43]  
+* **Força**: 12 [Máximo: 22] [Valor de Teste: 46]  (*)
 * **Vitalidade**: 10 [Máximo: 20] [Valor de Teste: 40]  
 * **Agilidade**: 6 [Máximo: 20] [Valor de Teste: 28]  
-* **Velocidade**: 7 [Máximo: 20] [Valor de Teste:28 ]  (*)  
+* **Velocidade**: 7 [Máximo: 20] [Valor de Teste:28 ]
 * **Magia**: 1 [Máximo: 18] [Valor de Teste: 11]  
 * **Espírito**: 8 [Máximo: 20] [Valor de Teste: 34]  
 
@@ -43,10 +43,10 @@
 * **Evasão Mágica**: 9 + 1 = 10
 * **Armadura**: 8 + 25% = 10
 * **Armadura Mágica**: 4 + 20% = 5
-* **Destreza**: 66 + 2 = 68
-* **Mente**: 57
-* **Precisão**: 102 + 10 + 2 = 114
-* **Precisão Mágica**: 105
+* **Destreza**: 67 + 2 = 69
+* **Mente**: 58
+* **Precisão**: 103 + 10 + 2 = 115
+* **Precisão Mágica**: 106
 
 ### Equipamento
 
@@ -69,7 +69,7 @@ n/a
 
 #### Gerais
 
-* **Prontidão**: 40
+* **Prontidão**: 50
 
 #### Saber
 
@@ -78,7 +78,7 @@ n/a
 * **Língua Comum**: 50
 * **Conhecimento (História)**: 40
 * **Conhecimento (Monstros)**: 40
-* **Conhecimento (Ivalice)**: 40
+* **Conhecimento (Ivalice)**: 46
 * **Conhecimento (Igreja de Glabados)**: 28
 
 #### Artísticas
@@ -131,5 +131,6 @@ Habilidades de monstros com custo de MP também são afetadas. O cavaleiro das r
 
 * 3x Poção [Restaura 50 HP] [Venda: 25 gil]
 * 1x Extrato [Resteura 15 MP] [Venda: 37 gil]
-* 1x Tônico [Restaura 25 HP] [Venda: 12 gil]
+* 3x Tônico [Restaura 25 HP] [Venda: 12 gil]
 * 1x Poção Média [Restaura 125 HP] [Venda: 75 gil]
+* 1x Blind Knife [2xFOR/AGI + d6] [Blind: Toque] [Faca] [Venda: 66 gil]

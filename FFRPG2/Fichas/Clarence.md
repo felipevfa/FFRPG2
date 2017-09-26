@@ -27,36 +27,36 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
 
 ## Ficha Técnica
 
-**Nível**: 4  
-**Experiência**: 1569/2000  
+**Nível**: 5  
+**Experiência**: 1297/2500  
 **Classe de Personagem**: Samurai  
 **Tipo de Classe**: Guerreiro  
-**Nível de Classe**: 4  
+**Nível de Classe**: 5  
 
-**HP**: 64 (d10)  
+**HP**: 71 (d10)  
 **MP**: n/a  
 
-**Gil:** 509  
+**Gil:** 755  
 
-### Atributos [Total: 43 pontos]
+### Atributos [Total: 44 pontos]
 
-* **Força**: 10 [Máximo: 23] [Valor de Teste: 40]*  
+* **Força**: 10 [Máximo: 23] [Valor de Teste: 40]  
 * **Vitalidade**: 8 [Máximo: 22] [Valor de Teste: 34]  
 * **Agilidade**: 5 [Máximo: 20] [Valor de Teste: 25]  
 * **Velocidade**: 8 [Máximo: 20] [Valor de Teste: 34]  
-* **Magia**: 10 [Máximo: 20] [Valor de Teste: 40]  
+* **Magia**: 11 [Máximo: 20] [Valor de Teste: 40]  (*)
 * **Espírito**: 2 [Máximo: 15] [Valor de Teste: 16]  
 
 ### Estatísticas de Combate
 
 * **Evasão**: 13
-* **Evasão Mágica**: 12
+* **Evasão Mágica**: 13
 * **Armadura**: 10 + 20% = 12
 * **Armadura Mágica**: 5 + 5% = 5
-* **Destreza**: 64
-* **Mente**: 74
-* **Precisão**: 98
-* **Precisão Mágica**: 124
+* **Destreza**: 65
+* **Mente**: 75
+* **Precisão**: 102
+* **Precisão Mágica**: 125
 
 ### Equipamento
 
@@ -82,21 +82,21 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
 
 ### Perícias [Aptidão: Armas]
 
-* **Total**: 270/270
-* **Total Específicas (Conhecimentos e Línguas)**: 178/178
+* **Total**: 280/280
+* **Total Específicas (Conhecimentos e Línguas)**: 184/184
 
 #### Gerais
 
-* **Prontidão**: 58
-* **Acrobacia**: 52
+* **Prontidão**: 60
+* **Acrobacia**: 54
 
 #### Saber
 
-* **Língua Comum**: 52
+* **Língua Comum**: 54
 * **Conhecimento (História)**: 54
 * **Conhecimento (Folclore)**: 52
-* **Conhecimento (Gallione)**: 44
-* **Conhecimento (Fé de Glabados)**: 40
+* **Conhecimento (Gallione)**: 46
+* **Conhecimento (Fé de Glabados)**: 42
 
 #### Artísticas
 
@@ -104,7 +104,7 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
 
 #### Sociais
 
-* **Liderança**: 42
+* **Liderança**: 44
 
 #### Técnicas
 
@@ -116,12 +116,12 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
 
 #### Perícias com Armas
 
-* **Espadas**: 54
+* **Espadas**: 56
 
 #### Selvagens
 
 * **Treinar Animais**: 37
-* **Cavalgar (Chocobos)**: 48
+* **Cavalgar (Chocobos)**: 50
 
 ### Bushido
 
@@ -134,8 +134,6 @@ Um jovem rapaz que ouviu falar do ressurgimento da Ordem dos Cavaleiros do Céu.
     Tipo: lenta (2) - Alvo: único
     Draw Out: 1
     Efeito: (4xMAG + 2d6 - ARM. M) de dano mágico. CdS de 30% de causar Blind (4).
-
-Liste as habilidades da seguinte maneira:
 
 **Espírito da Lâmina [Nível 1]**  
 **Tipo:** lenta (variável) - **Alvo:** único.  
@@ -150,4 +148,4 @@ Liste as habilidades da seguinte maneira:
 ### Inventário  
 
 * 01x Potion [ Restaura 50 HP ] [ Venda: 25 gil ]
-* 04x Tonic [ Restaura 25 HP ] [ Venda: 12 gil ]
+* 06x Tonic [ Restaura 25 HP ] [ Venda: 12 gil ]

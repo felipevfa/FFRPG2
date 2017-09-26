@@ -9,6 +9,7 @@
 **Rank:** D  
 **Nível Recomendado do Grupo:** 9  
 **Nível Recomendado (Individual):** 15  
+**Local da Missão:** Gariland
 
 **Taxa:** 450 gil
 

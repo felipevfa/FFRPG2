@@ -1,6 +1,4 @@
-# Modelo de Monstros
-
-## Perfil do Monstro
+# Perfil do Monstro
 
 - **Nome**: Sahagin
 - **Categoria(s)**: Aquático
@@ -17,7 +15,7 @@
 * **Frequência**: Comum
 * **Medida de Encontro**: 1/3
 
-### Sentidos
+## Sentidos
 
 - **Visão Diurna**: 70
 - **Visão Noturna**: 70
