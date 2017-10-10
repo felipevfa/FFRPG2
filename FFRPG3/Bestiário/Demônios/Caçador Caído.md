@@ -38,8 +38,8 @@
  * **Vitalidade**:
  * **Velocidade**:
  * **Agilidade**:
- v **Magia**:
- v **Espírito**:
+ * **Magia**:
+ * **Espírito**:
 
  ### Estatísticas de Combate 
  
