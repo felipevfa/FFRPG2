@@ -2,56 +2,56 @@
 
 ## Perfil do Monstro
 
-- **Nome**:
-- **Categoria(s)**: 
-    * Anormal, Amorfo, Aéreo, Aquático
-    * Arcano, Besta, Construtos, Demônio
-    * Dragão, Humanóide, Inseto, Lagarto
-    * Planta, Morto-Vivo
-- **Família do Monstro**: 
-- **Localização**: Cidades, Colinas, Deserto, Florestas, Masmorras, Montanhas, Oceanos, Pântanos, Planícies, Rios/Lagos, Ruínas, Selvas, Subterrâneo, Tundra
+* **Nome**:
+* **Categoria(s)**:
+  * Anormal, Amorfo, Aéreo, Aquático
+  * Arcano, Besta, Construtos, Demônio
+  * Dragão, Humanóide, Inseto, Lagarto
+  * Planta, Morto-Vivo
+* **Família do Monstro**:
+* **Localização**: Cidades, Colinas, Deserto, Florestas, Masmorras, Montanhas, Oceanos, Pântanos, Planícies, Rios/Lagos, Ruínas, Selvas, Subterrâneo, Tundra
 
-* **Aparência**: 
+* **Aparência**:
 
-- **Tamanho**: 
-- **Inteligência**: Nenhuma, Animal, Primitiva, Média, Alta, Ancião
-- **Reação**: Amigável, Neutro, Guerreiros, Hostil
-- **Comportamento**: 
+* **Tamanho**:
+* **Inteligência**: Nenhuma, Animal, Primitiva, Média, Alta, Ancião
+* **Reação**: Amigável, Neutro, Guerreiros, Hostil
+* **Comportamento**:
 
 * **Frequência**: Comum, Incomum, Raro, Muito Raro, Único
-* **Medida de Encontro**: 
+* **Medida de Encontro**:
 
 ### Sentidos
 
-- **Visão Diurna**:
-- **Visão Noturna**: 
-- **Audição**: 
-- **Olfato**:
-- **Sentido da Vida**:
-- **Sentido da Magia**:
+* **Visão Diurna**:
+* **Visão Noturna**:
+* **Audição**:
+* **Olfato**:
+* **Sentido da Vida**:
+* **Sentido da Magia**:
 
 ## Atributos e Estatísticas
 
 * **Nível**:
 
-- **XP:**
-- **Gil**:
+* **XP:**
+* **Gil**:
 
 * **Tipo**: Regular, Notório, Chefe, Chefe Final
 
- ### Atributos [Total: 35 + Nível]
+### Atributos [Total: 35 + Nível]
 
- - **Força**:
- - **Vitalidade**:
- - **Velocidade**:
- - **Agilidade**:
- - **Magia**:
- - **Espírito**:
+* **Força**:
+* **Vitalidade**:
+* **Velocidade**:
+* **Agilidade**:
+* **Magia**:
+* **Espírito**:
 
- ### Estatísticas de Combate 
- 
-- **HP**:
-- **MP**:
+### Estatísticas de Combate
+
+* **HP**:
+* **MP**:
 
 * **Precisão**: [80 + Nível + (AGI x 2)]
 * **Precisão Mágica**: [100 + Nível + (MAG x 2)]
