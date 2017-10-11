@@ -1,27 +1,24 @@
-## Biografia
+# A Mímica
 
-**Nome**: ?? / A Mímica    
-**Idade**: ??  
-**Raça**: ??  
-**Signo**: Escorpião
+* **Nome**: ?? / A Mímica
+* **Idade**: ??
+* **Raça**: ??
+* **Signo**: Escorpião
 
-**Aparência**:   
+* **Aparência**:
 
-**Imagens de Referência**:   
+* **Imagens de Referência**: [A Mímica](https://s-media-cache-ak0.pinimg.com/736x/76/8e/1a/768e1ae4b5b5e7558eb3f7ab88dc47bf.jpg)
 
-1. [A Mímica](https://s-media-cache-ak0.pinimg.com/736x/76/8e/1a/768e1ae4b5b5e7558eb3f7ab88dc47bf.jpg)
+* **Personalidade**: Observadora, curiosa. É bem calada, procurando aprender tudo o que consegue. Não se lembra muito de quem é ou o que fazia, e isso que a levou a ser o que é: ninguém.
 
-**Personalidade**: Observadora, curiosa. É bem calada, procurando aprender tudo o que consegue. Não se lembra muito de quem é ou o que fazia, e isso que a levou a ser o que é: ninguém.
+* **Objetivos**:
+  * Entender o que aconteceu consigo mesma e então arranjar algum propósito.
+  * Aprender o máximo possível das coisas ao seu redor.
 
-**Objetivos**:  
-
-* Entender o que aconteceu consigo mesma e então arranjar algum propósito.
-* Aprender o máximo possível das coisas ao seu redor.
-
-**Citações**
+* **Citações**
 > ...
 
-**Biografia**:
+* **Biografia**:
 
 Quando acordou, tudo o que sentiu foi uma dor na cabeça e um grande vazio: o vazio causado pela perda da própria memória. Olhando ao redor de si, tudo o que tinha era uma máscara, um manto escuro encapuzado e uma pequena nota: "Aprenda tudo."
 
@@ -33,28 +30,27 @@ Aprendeu bastante, mas não o suficiente. Até quando teria que aprender? A nota
 
 E assim, o tempo se passou. Agora, estava a caminho de um pequeno vilarejo, sem objetivo próximo ou plano algum: o que será que a aguardava?
 
-
 ## Ficha Técnica
 
-**Nível**: 2  
-**Experiência**: 567/1000  
-**Classe de Personagem**: Mímica.  
-**Tipo de Classe**: Expert.  
-**Nível de Classe**: 2  
+* **Nível**: 2
+* **Experiência**: 567/1000
+* **Classe de Personagem**: Mímica.
+* **Tipo de Classe**: Expert.
+* **Nível de Classe**: 2
 
-**HP**: 62  
-**MP**: 40  
+* **HP**: 62
+* **MP**: 40
 
-**Gil:** 158
+* **Gil:** 158
 
 ### Atributos [Total: 41 pontos]
 
-* **Força**: 1 [Máximo: 19] [Valor de Teste: 13]  
-* **Vitalidade**: 10 [Máximo: 19] [Valor de Teste: 40]  
-* **Agilidade**: 8 [Máximo: 19] [Valor de Teste: 34]  
-* **Velocidade**: 1 [Máximo: 19] [Valor de Teste: 13]  
-* **Magia**: 10 [Máximo: 19] [Valor de Teste: 40]  
-* **Espírito**: 11 [Máximo: 19] [Valor de Teste: 43]*  
+* **Força**: 1 [Máximo: 19] [Valor de Teste: 13]
+* **Vitalidade**: 10 [Máximo: 19] [Valor de Teste: 40]
+* **Agilidade**: 8 [Máximo: 19] [Valor de Teste: 34]
+* **Velocidade**: 1 [Máximo: 19] [Valor de Teste: 13]
+* **Magia**: 10 [Máximo: 19] [Valor de Teste: 40]
+* **Espírito**: 11 [Máximo: 19] [Valor de Teste: 43]*
 
 ### Estatísticas de Combate
 
@@ -62,11 +58,11 @@ E assim, o tempo se passou. Agora, estava a caminho de um pequeno vilarejo, sem 
 * **Evasão Mágica**: 21
 * **Armadura**: 6 +25% = 7
 * **Armadura Mágica**: 9 +30% = 11
-* **Destreza**: 67   
-* **Mente**: 72   
-* **Precisão**: 90  
-* **Precisão Mágica**: 122  
-* **Expert**: 50  
+* **Destreza**: 67
+* **Mente**: 72
+* **Precisão**: 90
+* **Precisão Mágica**: 122
+* **Expert**: 50
 
 ### Equipamento
 
@@ -81,42 +77,50 @@ E assim, o tempo se passou. Agora, estava a caminho de um pequeno vilarejo, sem 
 
 ### Vantagens
 
-**HP Extra [2 pontos]**   
-**Descrição**: +2 HP/nível.    
-**Restrições**: nenhuma.  
+#### HP Extra [2 pontos]
 
-**Alma Pura [2 pontos]**    
-**Descrição**: +2 MP/nível.    
-**Restrições**: nenhuma.
+* **Descrição**: +2 HP/nível.
+* **Restrições**: nenhuma.
 
-**Multi-talentoso [1 ponto]**   
-**Descrição**: Ganha aptidão com perícias de Saber.    
-**Restrições**: nenhuma.
+#### Alma Pura [2 pontos]
 
-**Ambidestria [1 ponto]**   
-**Descrição**: Pode adquirir a perícia Duas Armas pelo custo normal.    
-**Restrições**: nenhuma
+* **Descrição**: +2 MP/nível.
+* **Restrições**: nenhuma.
+
+#### Multi-talentoso [1 ponto]
+
+* **Descrição**: Ganha aptidão com perícias de Saber.
+* **Restrições**: nenhuma.
+
+#### Ambidestria [1 ponto]
+
+* **Descrição**: Pode adquirir a perícia Duas Armas pelo custo normal.
+* **Restrições**: nenhuma
 
 ### Desvantagens
 
-**Presa Favorita [2 pontos]**   
-**Descrição**: Recebe +100% dano de monstros do tipo Amorfo.    
-**Restrições**: Apenas ações de ataque dos monstros têm o dano aumentado.
+#### Presa Favorita [2 pontos]
 
-**Estigma do Demônio [4 pontos]**   
-**Descrição**: Recupera -25% HP de itens, magias e outros efeitos de cura.   
-**Restriçães**: Não afeta efeitos do tipo Drain ou de recuperação de MP.
+* **Descrição**: Recebe +100% dano de monstros do tipo Amorfo.
+* **Restrições**: Apenas ações de ataque dos monstros têm o dano aumentado.
+
+#### Estigma do Demônio [4 pontos]
+
+* **Descrição**: Recupera -25% HP de itens, magias e outros efeitos de cura.
+* **Restriçães**: Não afeta efeitos do tipo Drain ou de recuperação de MP.
 
 ### Perícias [Aptidão: Saber]
 
-* **Total**: 270/270  
-* **Total Específicas (Conhecimentos e Línguas)**: 166/166  
+* **Total**: 270/270
+* **Total Específicas (Conhecimentos e Línguas)**: 166/166
 
 #### Gerais
+
 * **Prontidão**: 52
 * **Atuação**: 52
 
 #### Saber
+
 * **Língua Comum**: 50
 * **Língua Antiga**: 52
 
@@ -128,28 +132,36 @@ E assim, o tempo se passou. Agora, estava a caminho de um pequeno vilarejo, sem 
 * **Conhecimento (Summons)**: 52
 
 #### Sociais
+
 * nenhuma.
 
 #### Técnicas
+
 * nenhuma.
 
 #### Ladinas
+
 * **Disfarce**: 40
 
 #### Perícias com Armas
+
 * **Duas Armas**: 52
 * **Armas de Fogo**: 52
 * **Facas**: 52
 
 #### Selvagens
+
 * nenhuma.
 
 ### Mímica
 
-**Mímica [Nível 1]**  
-**Tipo:** Varia - **Alvo:** Varia  
-**Descrição:** Repete a última ação realizada em seu turno. Os efeitos serão idênticos, mas calculados com os atributos do Mímico. Habilidades que requerem o uso de determinada arma possuem a exigência anulada, incluindo Iaido e Espírito de Lâmina, que são calculados como se o Mímico equipasse a Katana utilizada na ação. As únicas exceções são ações que consomem um item: para serem imitadas, o Mímico precisa possuir o mesmo item em seu inventário. Para replicar ações com custo em MP, o Mímico deve gastar uma quantia igual de MP. Ações com Tempo de Carga só podem ser copiadas se os efeitos forem aplicados antes do turno do Mímico.  
+#### Mímica [Nível 1]
+
+* **Tipo:** Varia
+* **Alvo:** Varia
+* **Descrição:** Repete a última ação realizada em seu turno. Os efeitos serão idênticos, mas calculados com os atributos do Mímico. Habilidades que requerem o uso de determinada arma possuem a exigência anulada, incluindo Iaido e Espírito de Lâmina, que são calculados como se o Mímico equipasse a Katana utilizada na ação. As únicas exceções são ações que consomem um item: para serem imitadas, o Mímico precisa possuir o mesmo item em seu inventário. Para replicar ações com custo em MP, o Mímico deve gastar uma quantia igual de MP. Ações com Tempo de Carga só podem ser copiadas se os efeitos forem aplicados antes do turno do Mímico.
 
 ### Inventário  
+
 * Bilhete [Mensagem: "Aprenda tudo"]
-* 1x Couro de Goblin [O couro enegrecido de um Goblin incomum.] [CP: 3 - Rank 1] [Venda: 15 gil] 
+* 1x Couro de Goblin [O couro enegrecido de um Goblin incomum.] [CP: 3 - Rank 1] [Venda: 15 gil]
