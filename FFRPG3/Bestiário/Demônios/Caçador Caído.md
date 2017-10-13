@@ -4,7 +4,7 @@
 * **Família do Monstro**: Sombras.
 * **Localização**: desconhecida.
 
-* **Aparência**:
+* **Aparência**: [imagem de referência](https://i.pinimg.com/236x/3e/2b/b4/3e2bb4b7ee39fc57c36e1ba4efe7bca0.jpg)
 
 * **Tamanho**: 2m de comprimento.
 * **Inteligência**: Animal
