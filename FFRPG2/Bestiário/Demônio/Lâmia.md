@@ -30,10 +30,10 @@ Tentam atacar furtivamente quando podem e não tem problemas em lutar sozinhas. 
 
 * **Nível**: 5
 
-* **XP:** (100 +8) x 5
-* **Gil**: (25 +3) x 5
+* **XP:** 550
+* **Gil**: 215
 
-* **Tipo**: Notório [Base: 100 XP e 25 Gil]
+* **Tipo**: Regular [Base: 40 XP e 15 Gil]
 
 ### Atributos [Total: 40]
 
@@ -62,27 +62,87 @@ Tentam atacar furtivamente quando podem e não tem problemas em lutar sozinhas. 
 
 ### Ataques
 
+#### Garras
+
+* **Tipo:** Ataque Normal (d6)
+* **Alvo:** Único
+* **Código de Dano:** (2xFOR + d6, Armadura)
+* **Modificadores:**
+  * Toque de Atraso (CdS de 30% de reduzir a iniciativa em 25%)
+* **Modificador de XP:** +11
+* **Modificador de Gil:** +5
+
+#### Cativar
+
+* **Tipo:** Sem Dano
+* **Alvo:** Único
+* **Código de Dano:** n/a.
+* **Modificadores:**
+  * À distância
+  * Status Toque (CdS de 30% de infligir Charm (4) [Classe IV])
+* **Modificador de XP:** +37
+* **Modificador de Gil:** +13
+
+#### Cativar (CdS 60% - Charm) [Nível 30+]
+
+#### Garras Venenosas (CdS 30% - Poison) [Nível 10 / CdS 60% - Nível 20+]
+
+#### Canto da Lâmia (CdS 30% - Confuse) [Nível 15 / CdS 60% - Nível 20+]
+
+#### O Olho da Górgona (CdS 30% - Stone) [Nível 40+]
+
 ### Habilidades de Ação
+
+nenhum.
 
 ### Magias
 
+nenhum.
+
 ### Habilidades de Classe
+
+nenhum.
 
 ### Habilidades de Movimento
 
+#### Movimento-Solo
+
+* **Descrição:** O monstro é capaz de mover-se pelo solo sem penalidades.
+
+#### Movimento-Água
+
+* **Descrição:** O monstro é capz de mover-se sob a água sem problemas. Ele pode nadar e boiar sem penalidades de movimento e pode agir de baixo da água.
+
 ### Habilidades de Suporte
+
+nenhum.
 
 ### Habilidades de Reação
 
+#### Contra-Ataque
+
+* **Descrição:** ao ser atacada, a Lâmia possui uma CdS de 50% de contra-atacar com [Garras](#garras)
+* **Modificador de XP:** +14
+* **Modificador de Gil:** +7
+
 ### Efeitos de Campo
 
+nenhum.
+
 ### Habilidades de Chefe
+
+nenhum.
 
 ## Tabela de Recompensas
 
 | Rolagem   | Recompensa      |
 |:---------:|:---------------:|
-| 51 - 100  |                 |
-| 25 - 50   |                 |
-| 08 - 24   |                 |
-| 01 - 07   |                 |
+| 51 - 100  | Tincture        |
+| 25 - 50   | Antidote        |
+| 08 - 24   | Fish Scale      |
+| 01 - 07   | Ether           |
+
+* **Tincture:** Recupera 15 MP [Venda: 37 gil]
+* **Antidote:** Cura o status *Poison*. [Venda: 25 gil]
+* **Fish Scale:** Lança a magia *Water*. [Venda: 50 gil]
+* **Ether:** Recupera 30 MP. [Venda: 75 gil]
