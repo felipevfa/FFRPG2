@@ -2,53 +2,53 @@
 
 ## Perfil do Monstro
 
-- **Nome**: Chefe de Clã Goblin
-- **Categoria(s)**: Humanóide
-- **Família do Monstro**: 
-- **Localização**: Cidades, Florestas, Masmorras, Montanhas, Pântanos, Planícies, Ruínas, Selvas, Subterrâneo
+* **Nome**: Chefe de Clã Goblin
+* **Categoria(s)**: Humanóide
+* **Família do Monstro**:
+* **Localização**: Cidades, Florestas, Masmorras, Montanhas, Pântanos, Planícies, Ruínas, Selvas, Subterrâneo
 
-* **Aparência**: 
-    1. [Imagem de corpo](http://imgur.com/zPzJZP4)
+* **Aparência**:
+  * [Imagem de corpo](http://imgur.com/zPzJZP4)
 
-- **Tamanho**: Grande
-- **Inteligência**: Média
-- **Reação**: Hostil
-- **Comportamento**: os Chefes de Clã são Goblins que cresceram devorando outros goblins. Tornaram-se mais inteligentes, poderosos e corpulentos; além de imensamente mais gananciosos. Eles lideram outros Goblins em incursões para pilhar o máximo que conseguirem, como se competissem uns com os outros para ver quem acumula mais bens.
+* **Tamanho**: Grande
+* **Inteligência**: Média
+* **Reação**: Hostil
+* **Comportamento**: os Chefes de Clã são Goblins que cresceram devorando outros goblins. Tornaram-se mais inteligentes, poderosos e corpulentos; além de imensamente mais gananciosos. Eles lideram outros Goblins em incursões para pilhar o máximo que conseguirem, como se competissem uns com os outros para ver quem acumula mais bens.
 
 * **Frequência**: Raro
 * **Medida de Encontro**: 1/grupo
 
 ### Sentidos
 
-- **Visão Diurna**: 80
-- **Visão Noturna**: 50
-- **Audição**: 50
-- **Olfato**: 50
-- **Sentido da Vida**: 0
-- **Sentido da Magia**: 0
+* **Visão Diurna**: 80
+* **Visão Noturna**: 50
+* **Audição**: 50
+* **Olfato**: 50
+* **Sentido da Vida**: 0
+* **Sentido da Magia**: 0
 
 ## Atributos e Estatísticas
 
 * **Nível**: 3
 
-- **XP:** 927
-- **Gil**: 408
+* **XP:** 927
+* **Gil**: 408
 
 * **Tipo**: Chefe
 
- ### Atributos [Total: 35 + Nível = 38]
+### Atributos [Total: 35 + Nível = 38]
 
- - **Força**: 12
- - **Vitalidade**: 5
- - **Velocidade**: 4
- - **Agilidade**: 4
- - **Magia**: 6
- - **Espírito**: 7
+* **Força**: 12
+* **Vitalidade**: 5
+* **Velocidade**: 4
+* **Agilidade**: 4
+* **Magia**: 6
+* **Espírito**: 7
 
- ### Estatísticas de Combate 
- 
-- **HP**: 120
-- **MP**: n/a
+### Estatísticas de Combate
+
+* **HP**: 120
+* **MP**: n/a
 
 * **Precisão**: 91
 * **Precisão Mágica**: 115
@@ -63,45 +63,52 @@
 
 ### Ataques
 
-**Golpe de Porrete [Nível 1]**    
-**Tipo de Ataque**: ataque normal - **Alvo**: único   
-**Fórmula de Dano**: 2xFOR + d8  
-**Chance de Sucesso**: Precisão - Evasão  
-**Modificadores**: nenhum.  
-**Modificador de XP**: +20  
-**Modificador de Gil**: +8  
+#### Golpe de Porrete
 
-**Tremor [Nível 1]**   
-**Tipo de Ataque**: ataque normal - **Alvo**: grupo  
-**Fórmula de Dano**: 2xVIT + d8 +25%  
-**Modificadores**: Auto-Acerto, Contagem Regressiva (1)  
-**Modificador de XP**: +64  
-**Modificador de Gil**: +28  
+* **Tipo de Ataque**: Ataque Normal
+* **Alvo**: Único
+* **Código de Dano**: (2xFOR + d8, Armadura)
+* **Chance de Sucesso**: (Precisão, Evasão)
+* **Modificadores**: nenhum.
+* **Modificador de XP**: +20
+* **Modificador de Gil**: +8
 
-[Chuva de Pedras] [Nível 10]  
-[Golpe de Porrete+] [Nível 15]: aumenta fórmula de dano para d12
+#### Tremor
+
+* **Tipo de Ataque**: Ataque Normal
+* **Alvo**: Grupo
+* **Fórmula de Dano**: ((2xVIT + d8) +25%, Armadura)
+* **Modificadores**:
+  * Auto-Acerto
+  * Contagem Regressiva (1)
+* **Modificador de XP**: +64
+* **Modificador de Gil**: +28
+
+#### [Chuva de Pedras] [Nível 10]
+
+#### [Golpe de Porrete+] [Nível 15]: aumenta fórmula de dano para d12
 
 ### Habilidades de Ação
 
-[Alarm (Invocar Goblin)] [Nível 5]  
+#### [Alarme (Invocar Goblin)] [Nível 5]
 
 ### Habilidades de Movimento
 
-**Movimento Solo**  
-**Descrição**: o monstro pode locomover-se pelo solo.  
-**Modificadores de XP e Gil**: nenhum.
+#### Movimento Solo
+
+* **Descrição**: o monstro pode locomover-se pelo solo.
 
 ### Habilidades de Suporte
 
-[Acerto Crítico (Crítico+)] [Nível 25]
+#### [Acerto Crítico (Crítico+)] [Nível 25]
 
 ### Habilidades de Reação
 
-[Contra-Ataque] [Nível 10]
+#### [Contra-Ataque] [Nível 10]
 
 ### Habilidades de Chefe
 
-[Imunidade: Todas] [Nível 30]
+#### [Imunidade: Todas] [Nível 30]
 
 ## Tabela de Recompensas
 
@@ -119,12 +126,11 @@
 As recompensas são atualizadas nos níveis:
 
 * **10**:
-    - Potion vira recompensa comum
-    - Hi-Potion assume o lugar da Potion
+  * Potion vira recompensa comum
+  * Hi-Potion assume o lugar da Potion
 * **20**:
-    - Couro de Goblin Chefe passa a ser a recompensa intermediária.
-    - Poison Axe passa a ser a recompensa rara.
-    - Razor Axe passa a ser a recompensa muito rara.
+  * Couro de Goblin Chefe passa a ser a recompensa intermediária.
+  * Poison Axe passa a ser a recompensa rara.
+  * Razor Axe passa a ser a recompensa muito rara.
 * **30**:
-    - Passa a dropar Couro de Goblin Chefe nas recompensas intermediária e rara.
-    
+  * Passa a dropar Couro de Goblin Chefe nas recompensas intermediária e rara.

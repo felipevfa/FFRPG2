@@ -30,8 +30,8 @@ Tentam atacar furtivamente quando podem e não tem problemas em lutar sozinhas. 
 
 * **Nível**: 5
 
-* **XP:** 550
-* **Gil**: 215
+* **XP:** 735
+* **Gil**: 280
 
 * **Tipo**: Regular [Base: 40 XP e 15 Gil]
 
@@ -46,8 +46,8 @@ Tentam atacar furtivamente quando podem e não tem problemas em lutar sozinhas. 
 
 ### Estatísticas de Combate
 
-* **HP**: 80 (Base de Vida: 2)
-* **MP**: 33 (Base de Mana: 0.5)
+* **HP**: 40 (Base de Vida: 2)
+* **MP**: 22 (Base de Mana: 0.5)
 
 * **Precisão**: 93
 * **Precisão Mágica**: 121
@@ -67,6 +67,7 @@ Tentam atacar furtivamente quando podem e não tem problemas em lutar sozinhas. 
 * **Tipo:** Ataque Normal (d6)
 * **Alvo:** Único
 * **Código de Dano:** (2xFOR + d6, Armadura)
+* **Chance de Sucesso:** (Precisão, Evasão)
 * **Modificadores:**
   * Toque de Atraso (CdS de 30% de reduzir a iniciativa em 25%)
 * **Modificador de XP:** +11
@@ -80,8 +81,9 @@ Tentam atacar furtivamente quando podem e não tem problemas em lutar sozinhas. 
 * **Modificadores:**
   * À distância
   * Status Toque (CdS de 30% de infligir Charm (4) [Classe IV])
-* **Modificador de XP:** +37
-* **Modificador de Gil:** +13
+  * Auto Acerto
+* **Modificador de XP:** +74
+* **Modificador de Gil:** +26
 
 #### Cativar (CdS 60% - Charm) [Nível 30+]
 
