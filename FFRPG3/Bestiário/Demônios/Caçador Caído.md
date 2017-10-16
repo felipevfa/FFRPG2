@@ -9,7 +9,7 @@
 * **Tamanho**: 2m de comprimento.
 * **Inteligência**: Animal
 * **Reação**: Hostil
-* **Comportamento**: Como o nome implica, o Caçador Caído é furtivo; ele espreita nas sombras por uma chance de surpreender suas vítimas e abatê-las num único golpe. É feroz e implacável, não se assustando por nada. Devora qualquer coisa que encontra pela frente pelo puro prazer de comer. 
+* **Comportamento**: Como o nome implica, o Caçador Caído é furtivo; ele espreita nas sombras por uma chance de surpreender suas vítimas e abatê-las num único golpe. É feroz e implacável, não se assustando por nada. Devora qualquer coisa que encontra pela frente pelo puro prazer de comer.
 
 * **Frequência**: Raro
 * **Medida de Encontro**: 1/3
@@ -25,12 +25,12 @@
 
 ## Atributos e Estatísticas
 
-* **Tipo**: Notório
+* **Tipo**: Comum [Base: 40 XP e 15 Gil]
 
 * **Nível**: 4
 
-* **XP:** 100
-* **Gil**: 25
+* **XP:** 252
+* **Gil**: 100
 
 ## Atributos [Total: 35 + 4 = 39]
 
@@ -63,11 +63,13 @@
 
 * **Alvo:** Único
 * **Tipo:** Ataque Normal (d8)
-* **Descrição:** O Caçador Caído avança contra o inimigo, possuindo uma CdS de **[Precisão - Evasão]** de causar **(2xFOR + d8)** pontos de dano físico.
-* **Modificador de XP:** +23
-* **Modificador de Gil:** +10
+* **Código de Dano:** (2xFOR + d8, Armadura)
+* **Chance de Sucesso:** (Precisão, Evasão)
+* **Descrição:** O Caçador Caído avança contra o inimigo, atacando-o com uma forte cabeçada.
 * **Modificadores:**
   * **Toque de Atraso:** CdS de 30% de reduzir a iniciativa em 25%.
+* **Modificador de XP:** +23
+* **Modificador de Gil:** +10
 
 #### Golpe de Corpo - Nível 8
 
@@ -115,7 +117,11 @@ nenhuma.
 
 | Rolagem   | Recompensa      |
 |:---------:|:---------------:|
-| 51 - 100  |                 |
-| 25 - 50   |                 |
-| 08 - 24   |                 |
-| 01 - 07   |                 |
+| 51 - 100  | nada.           |
+| 25 - 50   | Tonic           |
+| 08 - 24   | Potion          |
+| 01 - 07   | Light Curtain   |
+
+* **Tonic:** Recupera 25 HP. [Venda: 12 gil]
+* **Potion:** Recupera 50 HP. [Venda: 25 gil]
+* **Light Curtain:** Lança *Protect*. [Venda: 150 gil]
