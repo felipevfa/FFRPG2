@@ -2,52 +2,52 @@
 
 ## Perfil do Monstro
 
-- **Nome**: Flan (Azul)
-- **Categoria(s)**: Amorfo
-- **Família do Monstro**: Flan
-- **Localização**: em qualquer lugar.
+* **Nome**: Flan (Azul)
+* **Categoria(s)**: Amorfo
+* **Família do Monstro**: Flan
+* **Localização**: em qualquer lugar.
 
 * **Aparência**: [imagem ilustrativa](https://vignette1.wikia.nocookie.net/finalfantasy/images/3/31/Aqua_Flan-enemy-ffx.png/revision/latest/scale-to-width-down/397?cb=20130928015456)
 
-- **Tamanho**: médio
-- **Inteligência**: animal
-- **Reação**: hostil
-- **Comportamento**: Flans são criaturas gosmentas que não parecem dotadas de inteligência. Seu único objetivo é consumir e digerir tudo que puderem em seus líquidos ácidos. 
+* **Tamanho**: médio
+* **Inteligência**: animal
+* **Reação**: hostil
+* **Comportamento**: Flans são criaturas gosmentas que não parecem dotadas de inteligência. Seu único objetivo é consumir e digerir tudo que puderem em seus líquidos ácidos.
 
 * **Frequência**: Incomum
 * **Medida de Encontro**: 1/2
 
 ### Sentidos
 
-- **Visão Diurna**: 50
-- **Visão Noturna**: 50
-- **Audição**: 0
-- **Olfato**: 0
-- **Sentido da Vida**: 0
-- **Sentido da Magia**: 0
+* **Visão Diurna**: 50
+* **Visão Noturna**: 50
+* **Audição**: 0
+* **Olfato**: 0
+* **Sentido da Vida**: 0
+* **Sentido da Magia**: 0
 
 ## Atributos e Estatísticas
 
 * **Nível**: 5
 
-- **XP:** 690 [XP Base: 100]
-- **Gil**: 210 [Gil Base: 25]
+* **XP:** 690 [XP Base: 100]
+* **Gil**: 210 [Gil Base: 25]
 
 * **Tipo**: Notório
 
- ### Atributos [Total: 40]
+### Atributos [Total: 40]
 
- - **Força**: 8
- - **Vitalidade**: 8
- - **Velocidade**: 3
- - **Agilidade**: 3
- - **Magia**: 8
- - **Espírito**: 6
+* **Força**: 8
+* **Vitalidade**: 8
+* **Velocidade**: 3
+* **Agilidade**: 3
+* **Magia**: 8
+* **Espírito**: 6
 
- ### Estatísticas de Combate 
- 
-- **HP**: 160 
-- **MP**: 45
+### Estatísticas de Combate
+
+* **HP**: 160
+* **MP**: 45
 
 * **Precisão**: 91
 * **Precisão Mágica**: 121
@@ -62,22 +62,25 @@
 
 ### Ataques
 
-**Investida**  
-- **Escala de Dano:** d8  
-- **Alvo:** Único  
-- **Fórmula:** 3xFOR + d8  
-**Modificador de XP:** +20  
-**Modificador de Gil:** +8
+#### Investida
+
+* **Escala de Dano:** d8
+* **Alvo:** Único
+* **Fórmula:** 3xFOR + d8
+* **Modificador de XP:** +20
+* **Modificador de Gil:** +8
 
 ### Habilidades de Ação
 
-[Clonar] [Nível 20]
+#### [Clonar] [Nível 20]
 
 ### Magias
 
-[Water] [Nível 10]  
-[Watera] [Nível 25]  
-[Waterga] [Nível 40]  
+#### [Water] [Nível 10]
+
+#### [Watera] [Nível 25]
+
+#### [Waterga] [Nível 40]
 
 ### Habilidades de Classe
 
@@ -85,28 +88,31 @@ nenhuma.
 
 ### Habilidades de Movimento
 
-**Movimento Solo**  
-O Flan pode mover-se pelo solo ao arrastar o seu corpo gosmento por aí.
+#### Movimento Solo
 
-**Movimento Água**  
-O Flan consegue mover-se mais rápido na água, usando do seu corpo amorfo para isso. Alguns pesquisadores consideram curiosa a maneira que a criatura retém sua forma ao mergulhar em líquidos.
+* **Descrição:** O Flan pode mover-se pelo solo ao arrastar o seu corpo gosmento por aí.
+
+#### Movimento Água
+
+* **Descrição:** O Flan consegue mover-se mais rápido na água, usando do seu corpo amorfo para isso. Alguns pesquisadores consideram curiosa a maneira que a criatura retém sua forma ao mergulhar em líquidos.
 
 ### Habilidades de Suporte
 
-**Elemento Resistência: Água**  
-O Flan Azul possui resistência ao elemento água, recebendo *25% a menos de dano* de ataques oriundos desse elemento.  
-**Modificador de XP:** +7  
-**Modificador de Gil:** +3
+#### Elemento Resistência: Água
 
-**Elemento Fraqueza: Trovão**  
-O Flan Azul possui fraqueza ao elemento trovão, recebendo *25% a mais de dano* de ataques oriundos desse elemento.  
-**Modificador de XP:** -9  
-**Modificador de Gil:** -4
+* **Descrição:** O Flan Azul possui resistência ao elemento água, recebendo *25% a menos de dano* de ataques oriundos desse elemento.  
+* **Modificador de XP:** +7
+* **Modificador de Gil:** +3
 
-[Elemento Fraqueza: Trovão]
+#### Elemento Fraqueza: Trovão
 
-[Elemento Imunidade: Água] [Nível 30]  
-[Elemento Absorção: Água] [Nível 45]
+* **Descrição:** O Flan Azul possui fraqueza ao elemento trovão, recebendo *25% a mais de dano* de ataques oriundos desse elemento.  
+* **Modificador de XP:** -9
+* **Modificador de Gil:** -4
+
+#### [Elemento Imunidade: Água] [Nível 30]
+
+#### [Elemento Absorção: Água] [Nível 45]
 
 ### Habilidades de Reação
 
