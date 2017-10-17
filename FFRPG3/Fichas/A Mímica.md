@@ -9,7 +9,9 @@
 
 * **Imagens de Referência**: [A Mímica](https://s-media-cache-ak0.pinimg.com/736x/76/8e/1a/768e1ae4b5b5e7558eb3f7ab88dc47bf.jpg)
 
-* **Personalidade**: Observadora, curiosa. É bem calada, procurando aprender tudo o que consegue. Não se lembra muito de quem é ou o que fazia, e isso que a levou a ser o que é: ninguém.
+* **Personalidade**:
+
+Observadora, curiosa. É bem calada, procurando aprender tudo o que consegue. Não se lembra muito de quem é ou o que fazia, e isso que a levou a ser o que é: ninguém.
 
 * **Objetivos**:
   * Entender o que aconteceu consigo mesma e então arranjar algum propósito.
@@ -33,7 +35,7 @@ E assim, o tempo se passou. Agora, estava a caminho de um pequeno vilarejo, sem 
 ## Ficha Técnica
 
 * **Nível**: 2
-* **Experiência**: 567/1000
+* **Experiência**: 917/1000
 * **Classe de Personagem**: Mímica.
 * **Tipo de Classe**: Expert.
 * **Nível de Classe**: 2
@@ -41,7 +43,7 @@ E assim, o tempo se passou. Agora, estava a caminho de um pequeno vilarejo, sem 
 * **HP**: 62
 * **MP**: 40
 
-* **Gil:** 158
+* **Gil:** 288
 
 ### Atributos [Total: 41 pontos]
 
@@ -161,7 +163,7 @@ E assim, o tempo se passou. Agora, estava a caminho de um pequeno vilarejo, sem 
 * **Alvo:** Varia
 * **Descrição:** Repete a última ação realizada em seu turno. Os efeitos serão idênticos, mas calculados com os atributos do Mímico. Habilidades que requerem o uso de determinada arma possuem a exigência anulada, incluindo Iaido e Espírito de Lâmina, que são calculados como se o Mímico equipasse a Katana utilizada na ação. As únicas exceções são ações que consomem um item: para serem imitadas, o Mímico precisa possuir o mesmo item em seu inventário. Para replicar ações com custo em MP, o Mímico deve gastar uma quantia igual de MP. Ações com Tempo de Carga só podem ser copiadas se os efeitos forem aplicados antes do turno do Mímico.
 
-### Inventário  
+### Inventário
 
 * Bilhete [Mensagem: "Aprenda tudo"]
 * 1x Couro de Goblin [O couro enegrecido de um Goblin incomum.] [CP: 3 - Rank 1] [Venda: 15 gil]

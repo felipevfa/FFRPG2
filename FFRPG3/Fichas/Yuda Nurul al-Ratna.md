@@ -33,7 +33,7 @@ Temendo alguma perseguição da sua tribo, Yuda disfarçou-se e finge ser mulher
 ## Ficha Técnica
 
 **Nível**: 2  
-**Experiência**: 567/1000  
+**Experiência**: 917/1000  
 **Classe de Personagem**: Mago do Tempo  
 **Tipo de Classe**: Mago  
 **Nível de Classe**: 2  
@@ -41,7 +41,7 @@ Temendo alguma perseguição da sua tribo, Yuda disfarçou-se e finge ser mulher
 **HP**: 50 (d6)  
 **MP**: 32 (d10) 
 
-**Gil:** 206
+**Gil:** 336
 
 ### Atributos [Total: 40 pontos]
 
