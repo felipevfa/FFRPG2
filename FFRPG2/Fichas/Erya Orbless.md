@@ -1,45 +1,43 @@
 # Biografia
 
-**Nome**: Erya Orbless  
-**Idade**: 21  
-**Raça**: Humana  
-**Signo**: Escorpião  
+* **Nome**: Erya Orbless
+* **Idade**: 21
+* **Raça**: Humana
+* **Signo**: Escorpião
 
-**Aparência**:
+* **Aparência**:
+  * **Cabelo:** castanho claro;
+  * **Olhos:** azuis;
+  * **Altura:** 1,71m;
+  * **Peso:** 62kg.
 
-* **Cabelo:** castanho claro;
-* **Olhos:** azuis;
-* **Altura:** 1,71m;
-* **Peso:** 62kg.
+* **Imagens de Referência**:
+  * [imagem 1](<http://67.media.tumblr.com/16cddab4f0cea669791aec516aa19e4f/tumblr_o8oug5nMbV1r8x55lo1_1280.png>)
+  * [imagem 2](<http://gallery.abyssalchronicles.com/albums/userpics/10002/002~55.jpg>)
 
-**Imagens de Referência**:  
-
-* [imagem 1](<http://67.media.tumblr.com/16cddab4f0cea669791aec516aa19e4f/tumblr_o8oug5nMbV1r8x55lo1_1280.png>)
-* [imagem 2](<http://gallery.abyssalchronicles.com/albums/userpics/10002/002~55.jpg>)
-
-**Personalidade**:  
+* **Personalidade**:
 
 ## Ficha Técnica
 
-**Nível**: 4  
-**Experiência**: 1624/2000  
-**Classe de Personagem**: Maga  
-**Tipo de Classe**: Sábia  
-**Nível de Classe**: 4  
+* **Nível**: 4
+* **Experiência**: 1624/2000
+* **Classe de Personagem**: Maga
+* **Tipo de Classe**: Sábia
+* **Nível de Classe**: 4
 
-**HP**: 77 (d6)  
-**MP**: 62 (d10)  
+* **HP**: 77 (d6)
+* **MP**: 62 (d10)
 
-**Gil:** 521  
+* **Gil:** 521
 
 ### Atributos [Total: 43 pontos]
 
-* **Força**: 1 [Máximo: 15] [Valor de Teste: 13]  
-* **Vitalidade**: 11 [Máximo: 15] [Valor de Teste: 43]  
-* **Agilidade**: 1 [Máximo: 20] [Valor de Teste: 13]  
-* **Velocidade**: 8 [Máximo: 20] [Valor de Teste: 34]  
-* **Magia**: 10 [Máximo: 25] [Valor de Teste: 40]  
-* **Espírito**: 12 [Máximo: 25] [Valor de Teste: 46]  (*)
+* **Força**: 1 [Máximo: 15] [Valor de Teste: 13]
+* **Vitalidade**: 11 [Máximo: 15] [Valor de Teste: 43]
+* **Agilidade**: 1 [Máximo: 20] [Valor de Teste: 13]
+* **Velocidade**: 8 [Máximo: 20] [Valor de Teste: 34]
+* **Magia**: 10 [Máximo: 25] [Valor de Teste: 40]
+* **Espírito**: 12 [Máximo: 25] [Valor de Teste: 46]*
 
 ### Estatísticas de Combate
 
@@ -63,23 +61,27 @@
 
 ### Vantagens
 
-**HP Extra [2 pontos]**  
-**Descrição:** a cada nível, ganha +2 HP além do ganho convencional.  
-**Restrições:** nenhuma.  
+#### HP Extra [2 pontos]
 
-**Alma Pura [2 pontos]**  
-**Descrição**: a cada nível, ganha +2 MP além do ganho convencional.  
-**Restrição**: nenhuma.
+* **Descrição:** a cada nível, ganha +2 HP além do ganho convencional.
+* **Restrições:** nenhuma.
+
+#### Alma Pura [2 pontos]
+
+* **Descrição**: a cada nível, ganha +2 MP além do ganho convencional.
+* **Restrição**: nenhuma.
 
 ### Desvantagens
 
-**Presa Favorita [2 pontos]**  
-**Descrição:** recebe +25% de dano de monstros da categoria Amorfo.  
-**Restrição:** nenhuma.  
+#### Presa Favorita [2 pontos]
 
-**Inabilidade com Armas: Machados [2 pontos]**  
-**Descrição:** precisa gastar o dobro de pontos para adquirir *Perícia com Armas: Machado*.  
-**Restrição:** nenhuma.  
+* **Descrição:** recebe +25% de dano de monstros da categoria Amorfo.
+* **Restrição:** nenhuma.
+
+#### Inabilidade com Armas: Machados [2 pontos]
+
+* **Descrição:** precisa gastar o dobro de pontos para adquirir *Perícia com Armas: Machado*.
+* **Restrição:** nenhuma.
 
 ### Perícias [Aptidão: Saber]
 
@@ -129,41 +131,58 @@ n/a
 
 ### Magia Vermelha
 
-**Magia Inuitiva [Nível 1] [Custo variado de MP]**  
-**Tipo:** habilidade mágica - **Alvo:** varia.  
-**Descrição:** o sábio pode utilizar seus conhecimentos em lançar magias para os mais diversos fins.  
-**Palavras-Chave:** barreira, destruição, terra, manipulação elemental, fogo, cura, gelo, eletricidade, poison, trevas, água e ar.  
+#### Magia Inuitiva [Nível 1] [Custo variado de MP]
+
+* **Tipo:** habilidade mágica
+* **Alvo:** varia.
+* **Descrição:** o sábio pode utilizar seus conhecimentos em lançar magias para os mais diversos fins.
+* **Palavras-Chave:** barreira, destruição, terra, manipulação elemental, fogo, cura, gelo, eletricidade, poison, trevas, água e ar.
 
 ### Magias
 
 #### Nível 1
 
-**Cure [5 MP]**  
-**Escola:** vermelha - **Tipo:** recuperação - **Alvo:** único.  
-**Reflect**: sim.  
-**Descrição:** cura o alvo em *4xMAG + 1d8* HP.
+##### Cure [5 MP]
 
-**Poison [9 MP]**  
-**Escola:** vermelha - **Tipo:** Elemental (Bio) e Status (Toxin) - **Alvo:** único.  
-**Reflect**: sim.  
-**Descrição:** causa (*4xMAG + 1d8 - Armadura Mágica*) de dano elemental por Bio. Possui CdS de (*Precisão Mágica - Evasão Mágica*) de infligir Poison (∞).  
+* **Escola:** vermelha
+* **Tipo:** recuperação
+* **Alvo:** único.
+* **Reflect**: sim.
+* **Descrição:** cura o alvo em **(4xMAG + 1d8)** HP.
 
-**Scan [3 MP]**  
-**Escola:** vermelha. - **Tipo:** suporte - **Alvo:** único.  
-**Reflect:** sim.  
-**Descrição:** revela o nível do alvo, tipo do monstro, os valores máximos e atuais de HP e MP, fraquezas e imunidades a condições de status.  
+##### Poison [9 MP]
 
-**Aero [7 MP]**  
-**Escola:** vermelha - **Tipo:** Elemental (Ar) - **Alvo:** único.  
-**Reflect**: sim.  
-**Descrição:** causa (*4xMAG + 1d8 - Armadura Mágica*) de dano elemental por Ar.  
+* **Escola:** vermelha
+* **Tipo:** Elemental (Bio) e Status (Toxin)
+* **Alvo:** único.
+* **Reflect**: sim.
+* **Descrição:** causa **(4xMAG + 1d8, Armadura Mágica)** de dano elemental por Bio. Possui CdS de **(Precisão Mágica, Evasão Mágica)** de infligir Poison (∞).
 
-**Thunder [7 MP]**  
-**Escola:** vermelha - **Tipo:** Elemental (Eletricidade) - **Alvo:** único.  
-**Reflect**: sim.  
-**Descrição:** causa (*4xMAG + 1d8 - Armadura Mágica*) de dano elemental por Eletricidade.  
+##### Scan [3 MP]
 
-### Inventário  
+* **Escola:** vermelha
+* **Tipo:** suporte
+* **Alvo:** único.
+* **Reflect:** sim.
+* **Descrição:** revela o nível do alvo, tipo do monstro, os valores máximos e atuais de HP e MP, fraquezas e imunidades a condições de status.
+
+##### Aero [7 MP]
+
+* **Escola:** vermelha
+* **Tipo:** Elemental (Ar)
+* **Alvo:** único.
+* **Reflect**: sim.
+* **Descrição:** causa **(4xMAG + 1d8, Armadura Mágica)** de dano elemental por Ar.
+
+##### Thunder [7 MP]
+
+* **Escola:** vermelha
+* **Tipo:** Elemental (Eletricidade)
+* **Alvo:** único.
+* **Reflect**: sim.
+* **Descrição:** causa **(4xMAG + 1d8, Armadura Mágica)** de dano elemental por Eletricidade.
+
+### Inventário
 
 * 2x Poção [Restaura 50 HP] [Venda: 25 gil]
 * 2x Extrato [Restaura 15 MP] [Venda: 37 gil]

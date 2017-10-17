@@ -1,41 +1,40 @@
 # Biografia
 
-**Nome**: Andrus Andradus  
-**Idade**: 25  
-**Raça**: Humano  
-**Signo**: Câncer  
+* **Nome**: Andrus Andradus
+* **Idade**: 25
+* **Raça**: Humano
+* **Signo**: Câncer
 
-**Aparência**:
+* **Aparência**:
 
-**Imagens de Referência**:
+* **Imagens de Referência**:
+  * [imagem 1](<http://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/fallen_knight_set_small.jpg>)
+  * [imagem 2](<https://cdnb3.artstation.com/p/assets/images/images/002/405/987/large/mohammed-al-dabi-fallen-knight.jpg?1461335818>)
+  * [imagem 3](<https://66.media.tumblr.com/8c0c9b8dc7b974d1c8dfaa2b6c0f6b25/tumblr_o67eblFXq11r0skuso1_500.jpg>)
 
-* [imagem 1](<http://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/fallen_knight_set_small.jpg>)
-* [imagem 2](<https://cdnb3.artstation.com/p/assets/images/images/002/405/987/large/mohammed-al-dabi-fallen-knight.jpg?1461335818>)
-* [imagem 3](<https://66.media.tumblr.com/8c0c9b8dc7b974d1c8dfaa2b6c0f6b25/tumblr_o67eblFXq11r0skuso1_500.jpg>)
-
-**Personalidade**:
+* **Personalidade**:
 
 ## Ficha Técnica
 
-**Nível**: 5  
-**Experiência**: 899/2500  
-**Classe de Personagem**: Adepto.  
-**Tipo de Classe**: Cavaleiro das Runas  
-**Nível de Classe**: 5  
+* **Nível**: 5
+* **Experiência**: 899/2500
+* **Classe de Personagem**: Adepto.
+* **Tipo de Classe**: Cavaleiro das Runas
+* **Nível de Classe**: 5
 
-**HP**: 95 (d10)  
-**MP**: 48 (d6)  
+* **HP**: 95 (d10)
+* **MP**: 48 (d6)
 
-**Gil:** 748  
+* **Gil:** 748
 
 ### Atributos [Total: 44 pontos]
 
-* **Força**: 12 [Máximo: 22] [Valor de Teste: 46]  (*)
-* **Vitalidade**: 10 [Máximo: 20] [Valor de Teste: 40]  
-* **Agilidade**: 6 [Máximo: 20] [Valor de Teste: 28]  
-* **Velocidade**: 7 [Máximo: 20] [Valor de Teste:28 ]
-* **Magia**: 1 [Máximo: 18] [Valor de Teste: 11]  
-* **Espírito**: 8 [Máximo: 20] [Valor de Teste: 34]  
+* **Força**: 12 [Máximo: 22] [Valor de Teste: 46]*
+* **Vitalidade**: 10 [Máximo: 20] [Valor de Teste: 40]
+* **Agilidade**: 6 [Máximo: 20] [Valor de Teste: 28]
+* **Velocidade**: 7 [Máximo: 20] [Valor de Teste:28]
+* **Magia**: 1 [Máximo: 18] [Valor de Teste: 11]
+* **Espírito**: 8 [Máximo: 20] [Valor de Teste: 34]
 
 ### Estatísticas de Combate
 
@@ -59,11 +58,11 @@
 
 ### Vantagens
 
-n/a
+nenhuma.
 
 ### Desvantagens
 
-n/a
+nenhuma.
 
 ### Perícias [Aptidão: Armas]
 
@@ -83,7 +82,7 @@ n/a
 
 #### Artísticas
 
-n/a
+nenhuma.
 
 #### Sociais
 
@@ -98,7 +97,7 @@ n/a
 
 #### Ladinas
 
-n/a
+nenhuma.
 
 #### Perícias com Armas
 
@@ -106,28 +105,28 @@ n/a
 
 #### Selvagens
 
-n/a
+nenhuma.
 
 ## Habilidades Especiais
 
 ### Magia de Oposição
 
-**Runas [Nível 1]**  
-**Tipo:** rápida - **Alvo:** próprio.  
-**Descrição:** a habilidade símbolos dos Cavaleiros das Runas. O cavaleiro prepara sua arma ou armadura, inscrita com runas mágicas, para absorver a próxima habilidade mágica lançada perto de si, independente da sua fonte.  
+#### Runas [Nível 1]
 
-Essa habilidade afeta as escolas de magia Vermelha, Branca, Negra, do Tempo e Azul, exceto aquelas habilidades e magias cujo alvo seja Todos.  
-
-Habilidades de monstros com custo de MP também são afetadas. O cavaleiro das runas recupera MP igual ao custo de MP da habilidade absorvida. Caso múltiplos cavaleiros estejam ativando *Runas*, o cavaleiro com mais MP absorverá a magia.  
+* **Tipo:** rápida
+* **Alvo:** próprio.
+* **Descrição:** a habilidade símbolos dos Cavaleiros das Runas. O cavaleiro prepara sua arma ou armadura, inscrita com runas mágicas, para absorver a próxima habilidade mágica lançada perto de si, independente da sua fonte. Essa habilidade afeta as escolas de magia Vermelha, Branca, Negra, do Tempo e Azul, exceto aquelas habilidades e magias cujo alvo seja Todos. Habilidades de monstros com custo de MP também são afetadas. O cavaleiro das runas recupera MP igual ao custo de MP da habilidade absorvida. Caso múltiplos cavaleiros estejam ativando *Runas*, o cavaleiro com mais MP absorverá a magia.
 
 ### Espada Inflexível
 
-**Magia Intuitiva [Nível 1]**  
-**Tipo:** habilidade mágica - **Alvo**: varia.  
-**Descrição:** o cavaleiro das runas pode utilizar suas habilidades mágicas para propósitos diversos.  
-**Palavras-Chave**: barreira, destruição, manipulação elemental.  
+#### Magia Intuitiva [Nível 1]
 
-### Inventário  
+* **Tipo:** habilidade mágica
+* **Alvo**: varia.
+* **Descrição:** o cavaleiro das runas pode utilizar suas habilidades mágicas para propósitos diversos.
+* **Palavras-Chave**: barreira, destruição, manipulação elemental.
+
+## Inventário
 
 * 3x Poção [Restaura 50 HP] [Venda: 25 gil]
 * 1x Extrato [Resteura 15 MP] [Venda: 37 gil]
