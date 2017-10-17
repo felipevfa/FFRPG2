@@ -46,8 +46,8 @@ Tentam atacar furtivamente quando podem e não tem problemas em lutar sozinhas. 
 
 ### Estatísticas de Combate
 
-* **HP**: 40 (Base de Vida: 2)
-* **MP**: 22 (Base de Mana: 0.5)
+* **HP**: 56 (Base de Vida: 2)
+* **MP**: 31 (Base de Mana: 0.5)
 
 * **Precisão**: 93
 * **Precisão Mágica**: 121
