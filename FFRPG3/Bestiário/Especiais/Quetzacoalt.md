@@ -31,8 +31,8 @@
 
 * **Nível**: 7
 
-* **XP:** 225 +15
-* **Gil**: 55 +7
+* **XP:** 2912
+* **Gil**: 938
 
 * **Tipo**: Chefe [Base: 225 XP e 55 Gil]
 
@@ -100,6 +100,8 @@ nenhuma.
 * **Reflect**: Sim
 * **Código de Dano**: (4xMAG + d8, Armadura Mágica)
 * **Chance de Sucesso**: (Precisão Mágica, Evasão Mágica)
+* **Modificador de XP**: +8
+* **Modificador de Gil**: +5
 
 ### Habilidades de Classe
 
