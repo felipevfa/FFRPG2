@@ -1,8 +1,5 @@
-# Modelo de Monstros
+# Nome do Monstro
 
-## Perfil do Monstro
-
-* **Nome**:
 * **Categoria(s)**:
   * Anormal, Amorfo, Aéreo, Aquático
   * Arcano, Besta, Construtos, Demônio
@@ -21,7 +18,7 @@
 * **Frequência**: Comum, Incomum, Raro, Muito Raro, Único
 * **Medida de Encontro**:
 
-### Sentidos
+## Sentidos
 
 * **Visão Diurna**:
 * **Visão Noturna**:
@@ -65,6 +62,16 @@
 ## Ataques e Habilidades
 
 ### Ataques
+
+#### Nome do Ataque
+
+* **Tipo**:
+* **Alvo**:
+* **Código de Dano**:
+* **Chance de Sucesso**:
+* **Modificadores**:
+* **Modificador de XP**:
+* **Modificador de Gil**:
 
 ### Habilidades de Ação
 
