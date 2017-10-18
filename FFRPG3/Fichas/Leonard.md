@@ -153,4 +153,4 @@ nenhuma.
 
 ### Inventário
 
-nenhum.
+* 1x Potion [Restaura 50 HP] [Venda: 25 gil]

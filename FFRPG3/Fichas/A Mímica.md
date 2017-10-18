@@ -166,4 +166,4 @@ E assim, o tempo se passou. Agora, estava a caminho de um pequeno vilarejo, sem 
 ### Inventário
 
 * Bilhete [Mensagem: "Aprenda tudo"]
-* 1x Couro de Goblin [O couro enegrecido de um Goblin incomum.] [CP: 3 - Rank 1] [Venda: 15 gil]
+* 2x Couro de Goblin [O couro enegrecido de um Goblin incomum.] [CP: 3 - Rank 1] [Venda: 15 gil]
