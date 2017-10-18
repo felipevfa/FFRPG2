@@ -6,6 +6,8 @@
 * **Localização**: todas.
 
 * **Aparência**:
+  * [imagem 1](https://vignette.wikia.nocookie.net/finalfantasy/images/a/ae/FFTKnightMale.png/revision/latest?cb=20111202162655)
+  * [imagem 2](https://vignette.wikia.nocookie.net/finalfantasy/images/8/86/FFTKnightFemale.png/revision/latest?cb=20111202162738)
 
 * **Tamanho**: Médio
 * **Inteligência**: Média
@@ -146,3 +148,7 @@
   * **Escudo**: Bronze Shield [+9 EVA. +3 EVA M.] [Escudo] [Venda: 250 gil]
   * **Arma**: Long Sword [4xFOR + d10] [Arma / Espada] [Venda: 375 gil]
   * **Armadura**: Bronze Armor [+11 ARM. +7 ARM. M.] [Corpo] [Venda: 340 gil]
+
+## Inventário
+
+* 1x Tonic [Restaura 25 HP] [Venda: 25 gil]
