@@ -31,7 +31,7 @@
 
 * **Nível**:
 
-* **XP:**
+* **XP**:
 * **Gil**:
 
 * **Tipo**: Regular, Notório, Chefe, Chefe Final
