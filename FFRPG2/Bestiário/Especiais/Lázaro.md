@@ -29,10 +29,10 @@
 
 * **Nível**: 9
 
-* **XP**: 225
-* **Gil**: 55
+* **XP**: 2718
+* **Gil**: 783
 
-* **Tipo**: Chefe
+* **Tipo**: Chefe [Base: 225 XP e 55 Gil]
 
 ### Atributos [Total: 44]
 
@@ -127,15 +127,27 @@
 
 #### Contra-Magia (30%, Roleta Elemental)
 
+* **Efeito**: O monstro possui 30% de chance de revidar um *ataque mágico* com [Roleta Elemental](#roleta-elemental)
+* **Modificador de XP**: +15
+* **Modificador de Gil**: +7
+
 ### Efeitos de Campo
 
+* nenhum.
+
 ### Habilidades de Chefe
+
+* nenhuma.
 
 ## Tabela de Recompensas
 
 | Rolagem   | Recompensa      |
 |:---------:|:---------------:|
-| 51 - 100  |                 |
-| 25 - 50   |                 |
-| 08 - 24   |                 |
-| 01 - 07   |                 |
+| 51 - 100  | nada            |
+| 25 - 50   | Hi-Potion       |
+| 08 - 24   | Phoenix Down    |
+| 01 - 07   | Leather Mantle  |
+
+* **High Potion**: Restaura 150 HP. [Venda: 75 gil]
+* **Phoenix Down**: Restaura um alvo *Inconsciente* para 1 HP. [Venda: 250 gil]
+* **Leather Mantle**: [+10 EVA. +6 EVA. M.] [Acessório] [Venda: 600 gil]
