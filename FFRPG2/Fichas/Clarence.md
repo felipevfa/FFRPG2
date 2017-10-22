@@ -31,7 +31,7 @@
 * **HP**: 71 (d10)
 * **MP**: n/a
 
-* **Gil:** 755
+* **Gil:** 1105
 
 ### Atributos [Total: 44 pontos]
 
