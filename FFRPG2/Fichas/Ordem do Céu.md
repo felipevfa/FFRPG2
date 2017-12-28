@@ -1,8 +1,8 @@
 # Guilda: Ordem do Céu
 
-**Nível:**  1
+**Nível:**  1  
 **Fama:** Desconhecido  
-**Experiência:** 0/5  
+**Experiência:** 4/5  
 
 **Cofre da Guilda:** 0 gil  
 
