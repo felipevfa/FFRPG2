@@ -22,24 +22,24 @@
 
 ## Ficha Técnica
 
-* **Nível**: 5
-* **Experiência**: 1297/2500
+* **Nível**: 6
+* **Experiência**: 1737/3000
 * **Classe de Personagem**: Samurai
 * **Tipo de Classe**: Guerreiro
-* **Nível de Classe**: 5
+* **Nível de Classe**: 6
 
-* **HP**: 71 (d10)
+* **HP**: 82 (d10)
 * **MP**: n/a
 
-* **Gil:** 1105
+* **Gil:** 1459
 
-### Atributos [Total: 44 pontos]
+### Atributos [Total: 45 pontos]
 
-* **Força**: 10 [Máximo: 23] [Valor de Teste: 40]
+* **Força**: 11 [Máximo: 23] [Valor de Teste: 43]*
 * **Vitalidade**: 8 [Máximo: 22] [Valor de Teste: 34]
 * **Agilidade**: 5 [Máximo: 20] [Valor de Teste: 25]
 * **Velocidade**: 8 [Máximo: 20] [Valor de Teste: 34]
-* **Magia**: 11 [Máximo: 20] [Valor de Teste: 40]*
+* **Magia**: 11 [Máximo: 20] [Valor de Teste: 40]
 * **Espírito**: 2 [Máximo: 15] [Valor de Teste: 16]
 
 ### Estatísticas de Combate
@@ -48,10 +48,10 @@
 * **Evasão Mágica**: 13
 * **Armadura**: 10 + 20% = 12
 * **Armadura Mágica**: 5 + 5% = 5
-* **Destreza**: 65
-* **Mente**: 75
-* **Precisão**: 102
-* **Precisão Mágica**: 125
+* **Destreza**: 66
+* **Mente**: 76
+* **Precisão**: 105
+* **Precisão Mágica**: 126
 
 ### Equipamento
 
@@ -80,21 +80,18 @@
 
 ### Perícias [Aptidão: Armas]
 
-* **Total**: 280/280
-* **Total Específicas (Conhecimentos e Línguas)**: 184/184
-
 #### Gerais
 
-* **Prontidão**: 60
-* **Acrobacia**: 54
+* **Prontidão**: 62
+* **Acrobacia**: 56
 
 #### Saber
 
-* **Língua Comum**: 54
+* **Língua Comum**: 56
 * **Conhecimento (História)**: 54
-* **Conhecimento (Folclore)**: 52
-* **Conhecimento (Gallione)**: 46
-* **Conhecimento (Fé de Glabados)**: 42
+* **Conhecimento (Folclore)**: 54
+* **Conhecimento (Gallione)**: 50
+* **Conhecimento (Fé de Glabados)**: 43
 
 #### Artísticas
 
@@ -114,12 +111,12 @@
 
 #### Perícias com Armas
 
-* **Espadas**: 56
+* **Espadas**: 58
 
 #### Selvagens
 
 * **Treinar Animais**: 37
-* **Cavalgar (Chocobos)**: 50
+* **Cavalgar (Chocobos)**: 52
 
 ### Bushido
 
