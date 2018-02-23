@@ -146,5 +146,6 @@
 
 ### Inventário
 
-* 01x Potion [ Restaura 50 HP ] [ Venda: 25 gil ]
-* 06x Tonic [ Restaura 25 HP ] [ Venda: 12 gil ]
+* 1x Poção [Restaura 50 HP] [Venda: 25 gil]
+* 1x Extrato [Restaura 15 MP] [Venda: 37 gil]
+* 6x Tônico [Restaura 25 HP] [Venda: 12 gil]
