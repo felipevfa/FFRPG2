@@ -19,18 +19,18 @@
 
 ## Ficha Técnica
 
-* **Nível**: 5
-* **Experiência**: 0/2500
+* **Nível**: 6
+* **Experiência**: 64/3000
 * **Classe de Personagem**: Maga
 * **Tipo de Classe**: Sábia
-* **Nível de Classe**: 5
+* **Nível de Classe**: 6
 
 * **HP**: 99 (d6)
 * **MP**: 85 (d10)
 
 * **Gil:** 1244
 
-### Atributos [Total: 43 pontos]
+### Atributos [Total: 45 pontos]
 
 * **Força**: 1 [Máximo: 15] [Valor de Teste: 13]
 * **Vitalidade**: 12 [Máximo: 15] [Valor de Teste: 46]
