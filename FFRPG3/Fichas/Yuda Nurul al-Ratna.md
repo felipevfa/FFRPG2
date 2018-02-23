@@ -27,7 +27,7 @@ Yuda é um jovem muito leve e que facilmente fica maravilhado com novas descober
 
 * **História**:
 
-Vindo de outro mundo, Yuda nasceu macho em uma vila de Mithras, uma raça conhecida pela predominância de fêmeas. Quando ele despertou poderes mágicos, algo raríssimo para seu povo, ele foi encarcerado e utilizado para reproduzir e criar mais Mithras magos. Um dia, um poderoso surto mágico acometeu Yuda e, em meio ao descontrole, ele conseguiu abrir um portal que o levou para outro mundo: Ivalice.  
+Vindo de outro mundo, Yuda nasceu macho em uma vila de Mithras, uma raça conhecida pela predominância de fêmeas. Quando ele despertou poderes mágicos, algo raríssimo para seu povo, ele foi encarcerado e utilizado para reproduzir e criar mais Mithras magos. Um dia, um poderoso surto mágico acometeu Yuda e, em meio ao descontrole, ele conseguiu abrir um portal que o levou para outro mundo: Ivalice.
 
 Temendo alguma perseguição da sua tribo, Yuda disfarçou-se e finge ser mulher para despistar quaisquer suspeitas. Em meio às viagens, ele uniu-se à um grupo de mercenários e aproveita os serviços não só para ganhar seu pão, mas, também, para conhecer o mundo.
 

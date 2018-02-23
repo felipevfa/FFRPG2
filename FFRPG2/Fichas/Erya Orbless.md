@@ -19,36 +19,36 @@
 
 ## Ficha Técnica
 
-* **Nível**: 4
-* **Experiência**: 1624/2000
+* **Nível**: 5
+* **Experiência**: 0/2500
 * **Classe de Personagem**: Maga
 * **Tipo de Classe**: Sábia
-* **Nível de Classe**: 4
+* **Nível de Classe**: 5
 
-* **HP**: 77 (d6)
-* **MP**: 62 (d10)
+* **HP**: 99 (d6)
+* **MP**: 85 (d10)
 
-* **Gil:** 871
+* **Gil:** 1244
 
 ### Atributos [Total: 43 pontos]
 
 * **Força**: 1 [Máximo: 15] [Valor de Teste: 13]
-* **Vitalidade**: 11 [Máximo: 15] [Valor de Teste: 43]
+* **Vitalidade**: 12 [Máximo: 15] [Valor de Teste: 46]
 * **Agilidade**: 1 [Máximo: 20] [Valor de Teste: 13]
 * **Velocidade**: 8 [Máximo: 20] [Valor de Teste: 34]
 * **Magia**: 10 [Máximo: 25] [Valor de Teste: 40]
-* **Espírito**: 12 [Máximo: 25] [Valor de Teste: 46]*
+* **Espírito**: 13 [Máximo: 25] [Valor de Teste: 49]*
 
 ### Estatísticas de Combate
 
 * **Evasão**: 9
-* **Evasão Mágica**: 22
+* **Evasão Mágica**: 23
 * **Armadura**: 5 + 30% = 6
-* **Armadura Mágica**: 10 + 30% = 13
-* **Destreza**: 56
-* **Mente**: 74
-* **Precisão**: 72
-* **Precisão Mágica**: 124
+* **Armadura Mágica**: 10 + 35% = 13
+* **Destreza**: 58
+* **Mente**: 76
+* **Precisão**: 78
+* **Precisão Mágica**: 126
 
 ### Equipamento
 
@@ -87,20 +87,20 @@
 
 #### Gerais
 
-* **Prontidão:** 56
+* **Prontidão:** 60
 
 #### Saber
 
-* **Ensinar:** 56
-* **Investigação:** 56
+* **Ensinar:** 60
+* **Investigação:** 60
 * **Língua Comum:** 50
-* **Língua Antiga:** 56
-* **Língua das Bestas:** 56
-* **Conhecimento (Magia Arcana):** 60
-* **Conhecimento (Magia Azul):** 60
-* **Conhecimento (Magia Branca):** 56
-* **Conhecimento (Magia do Tempo):** 60
-* **Conhecimento (Summons):** 56
+* **Língua Antiga:** 60
+* **Língua das Bestas:** 60
+* **Conhecimento (Magia Arcana):** 64
+* **Conhecimento (Magia Azul):** 64
+* **Conhecimento (Magia Branca):** 60
+* **Conhecimento (Magia do Tempo):** 64
+* **Conhecimento (Summons):** 60
 * **Conhecimento (Artefatos):** 50
 * **Conhecimento (Igreja de Glabados):** 20
 
@@ -114,8 +114,8 @@ n/a
 
 #### Técnicas
 
-* **Alquimia:** 56
-* **Cura:** 56
+* **Alquimia:** 60
+* **Cura:** 60
 
 #### Ladinas
 
@@ -182,8 +182,16 @@ n/a
 * **Reflect**: sim.
 * **Descrição:** causa **(4xMAG + 1d8, Armadura Mágica)** de dano elemental por Eletricidade.
 
+##### Blizzard [7 MP]
+
+* **Escola:** vermelha
+* **Tipo:** Elemental (Gelo)
+* **Alvo:** único.
+* **Reflect**: sim.
+* **Descrição:** causa **(4xMAG + 1d8, Armadura Mágica)** de dano elemental por Gelo.
+
 ### Inventário
 
-* 2x Poção [Restaura 50 HP] [Venda: 25 gil]
-* 2x Extrato [Restaura 15 MP] [Venda: 37 gil]
+* 2x Poção [Restaura 50 HP] [Venda: 25 gil]]
+* 4x Extrato [Restaura 15 MP] [Venda: 37 gil]
 * 1x Faca da Cegueira [2x(AGI/FOR) + d6] [Toque: Blind] [Venda: 66 gil]
