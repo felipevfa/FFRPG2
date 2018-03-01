@@ -1,14 +1,14 @@
 # Guilda: Ordem do Céu
 
-**Nível:**  1  
-**Fama:** Desconhecido  
-**Experiência:** 4/5  
+* **Nível:**  2
+* **Fama:** Desconhecido
+* **Experiência:** 3/10
 
-**Cofre da Guilda:** 0 gil  
+* **Cofre da Guilda:** 1500 Gil
 
-**Posição no Ranking:** não cadastrada.  
+* **Posição no Ranking:** não cadastrada.
 
-## Membros
+## Membros [03/05]
 
 * Andrus Andradus [Guildmaster]
 * Erya Orbless
@@ -26,8 +26,20 @@ Nenhuma regra cadastrada.
 
 * **Governo de Ivalice**: ótima.
 
+## Sede
+
+A guilda não possui uma sede cadastrada.
+
+## Contratos de Serviços
+
+A guilda não possui contratos de serviços.
+
 ## Bônus de Guilda
 
 Nenhum bônus.
 
 **Próximo bônus:** Guilda Iniciante (Nível 3). Efetivamente a quantidade de Gil ganha em missões em 10%.
+
+## Inventário
+
+A guilda não possui itens ou equipamentos em seu inventário.
