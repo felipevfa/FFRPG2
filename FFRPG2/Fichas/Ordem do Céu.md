@@ -4,7 +4,7 @@
 * **Fama:** Desconhecido
 * **Experiência:** 3/10
 
-* **Cofre da Guilda:** 1500 Gil
+* **Cofre da Guilda:** 1050 Gil
 
 * **Posição no Ranking:** não cadastrada.
 
