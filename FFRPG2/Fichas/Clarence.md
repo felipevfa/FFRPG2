@@ -139,10 +139,10 @@
 * **Descrição:** acalmando a fúria do espírito que reside em sua lâmina, o Samurai invoca parcialmente seu poder para infligir condições de status negativas nos inimigos. Espírito da Lâmina possui uma CdS de **(Mente - Evasão Mágica)** de infligir um status negativo em um alvo. Usar a habilidade possui uma CdS de **(20 + Draw Out - Nível do Samurai)** de exaurir a lâmina, assim como em Iaido.  
 * **Restrições**: só pode ser usado com a katana equipada.  
 
-    Oborotsuki
-    Tipo: lenta (2) - Alvo: único
-    Draw Out: 1
-    Efeito: Inflige Blind (6).
+    Oborotsuki  
+    Tipo: lenta (2) - Alvo: único  
+    Draw Out: 1  
+    Efeito: Inflige Blind (6).  
 
 ### Inventário
 
