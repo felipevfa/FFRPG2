@@ -127,10 +127,10 @@
 * **Descrição:** o Samurai invoca o espírito de sua Katana, conjurando efeitos diversos durante o combate. Iaido possui uma CdS de **(30 + Draw Out - Nível do Samurai)** de exaurir a lâmina, infligindo o status **Curse (4)** no personagem, mesmo que ele seja imune a isso.
 * **Restrições**: só pode ser usado com a Katana equipada.
 
-    Oborotsuki
-    Tipo: lenta (2) - Alvo: único
-    Draw Out: 1
-    Efeito: (4xMAG + 2d6 - ARM. M) de dano mágico. CdS de 30% de causar Blind (4).
+        Oborotsuki
+        Tipo: lenta (2) - Alvo: único
+        Draw Out: 1
+        Efeito: (4xMAG + 2d6 - ARM. M) de dano mágico. CdS de 30% de causar Blind (4).
 
 #### Espírito da Lâmina [Nível 1]
 
