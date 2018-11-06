@@ -6,10 +6,10 @@
 
 -- Ellys, uma camponesa dos arredores de Gariland.
 
-**Rank:** D  
-**Nível Recomendado do Grupo:** 7  
-**Nível Recomendado (Individual):** 10  
-**Local da Missão:** Mandalia Plains  
+* **Rank:** D
+* **Nível Recomendado do Grupo:** 7
+* **Nível Recomendado (Individual):** 10
+* **Local da Missão:** Mandalia Plains
 
 **Taxa:** 450 gil
 
