@@ -149,3 +149,9 @@
 * 1x Poção [Restaura 50 HP] [Venda: 25 gil]
 * 1x Extrato [Restaura 15 MP] [Venda: 37 gil]
 * 6x Tônico [Restaura 25 HP] [Venda: 12 gil]
+
+### Glossário
+
+* **Curse**: O personagem não pode utilizar Ações de Habilidade (Lentas ou Rápidas). Os atributos Vitalidade, Espírito e Magia são reduzidos em 50% para o propósito de realizar ações.
+
+* **Blind**: A precisão do personagem é reduzida de 50%. Atributos e Perícias, para o propósito de realizar ações, também. Habilidades que se baseiam em Ações de Ataque - ou causam dano baseado na arma equipada - tem uma CdS fixa de 75%.
