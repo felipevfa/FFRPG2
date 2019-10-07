@@ -19,31 +19,31 @@
 
 ## Ficha Técnica
 
-* **Nível**: 6
+* **Nível**: 9
 * **Experiência**: 64/3000
 * **Classe de Personagem**: Maga
 * **Tipo de Classe**: Sábia
 * **Nível de Classe**: 6
 
-* **HP**: 99 (d6)
-* **MP**: 85 (d10)
+* **HP**: 134 (d6)
+* **MP**: 130 (d10)
 
-* **Gil:** 1244
+* **Gil:** 1500
 
-### Atributos [Total: 45 pontos]
+### Atributos [Total: 48 pontos]
 
 * **Força**: 1 [Máximo: 15] [Valor de Teste: 13]
-* **Vitalidade**: 12 [Máximo: 15] [Valor de Teste: 46]
+* **Vitalidade**: 14 [Máximo: 15] [Valor de Teste: 52]*
 * **Agilidade**: 1 [Máximo: 20] [Valor de Teste: 13]
 * **Velocidade**: 8 [Máximo: 20] [Valor de Teste: 34]
 * **Magia**: 10 [Máximo: 25] [Valor de Teste: 40]
-* **Espírito**: 13 [Máximo: 25] [Valor de Teste: 49]*
+* **Espírito**: 14 [Máximo: 25] [Valor de Teste: 52]
 
 ### Estatísticas de Combate
 
 * **Evasão**: 9
-* **Evasão Mágica**: 23
-* **Armadura**: 5 + 30% = 6
+* **Evasão Mágica**: 24
+* **Armadura**: 5 + 35% = 6
 * **Armadura Mágica**: 10 + 35% = 13
 * **Destreza**: 58
 * **Mente**: 76
@@ -87,20 +87,20 @@
 
 #### Gerais
 
-* **Prontidão:** 60
+* **Prontidão:** 66
 
 #### Saber
 
-* **Ensinar:** 60
-* **Investigação:** 60
+* **Ensinar:** 66
+* **Investigação:** 66
 * **Língua Comum:** 50
-* **Língua Antiga:** 60
-* **Língua das Bestas:** 60
-* **Conhecimento (Magia Arcana):** 64
-* **Conhecimento (Magia Azul):** 64
-* **Conhecimento (Magia Branca):** 60
-* **Conhecimento (Magia do Tempo):** 64
-* **Conhecimento (Summons):** 60
+* **Língua Antiga:** 66
+* **Língua das Bestas:** 66
+* **Conhecimento (Magia Arcana):** 70
+* **Conhecimento (Magia Azul):** 70
+* **Conhecimento (Magia Branca):** 66
+* **Conhecimento (Magia do Tempo):** 70
+* **Conhecimento (Summons):** 66
 * **Conhecimento (Artefatos):** 50
 * **Conhecimento (Igreja de Glabados):** 20
 
@@ -114,8 +114,8 @@ n/a
 
 #### Técnicas
 
-* **Alquimia:** 60
-* **Cura:** 60
+* **Alquimia:** 66
+* **Cura:** 66
 
 #### Ladinas
 
@@ -189,6 +189,20 @@ n/a
 * **Alvo:** único.
 * **Reflect**: sim.
 * **Descrição:** causa **(4xMAG + 1d8, Armadura Mágica)** de dano elemental por Gelo.
+
+##### Fire [7 MP]
+* **Escola:** vermelha
+* **Tipo:** Elemental (Fogo)
+* **Alvo:** único.
+* **Reflect:** sim.
+* **Descrição:** causa (4xMAG + 1d8, Armadura Mágica) de dano elemental por Fogo.
+
+##### Water [18 MP]
+* **Escola:** vermelha
+* **Tipo:** Elemental (Água)
+* **Alvo:** único.
+* **Reflect:** sim.
+* **Descrição:** causa (8xMAG + 2d8, Armadura Mágica) de dano elemental por Água.
 
 ### Inventário
 
