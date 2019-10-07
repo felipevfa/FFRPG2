@@ -20,7 +20,7 @@
 ## Ficha Técnica
 
 * **Nível**: 9
-* **Experiência**: 64/3000
+* **Experiência**: 124/4500
 * **Classe de Personagem**: Maga
 * **Tipo de Classe**: Sábia
 * **Nível de Classe**: 6
