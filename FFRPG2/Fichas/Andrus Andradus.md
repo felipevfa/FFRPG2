@@ -16,35 +16,35 @@
 
 ## Ficha Técnica
 
-* **Nível**: 5
-* **Experiência**: 899/2500
+* **Nível**: 8
+* **Experiência**: 2.459/4000
 * **Classe de Personagem**: Adepto.
 * **Tipo de Classe**: Cavaleiro das Runas
-* **Nível de Classe**: 5
+* **Nível de Classe**: 8
 
-* **HP**: 109 (d10)
-* **MP**: 56 (d6)
+* **HP**: 146 (d10)
+* **MP**: 79 (d6)
 
-* **Gil:** 1098
+* **Gil:** 1.354
 
-### Atributos [Total: 45 pontos]
+### Atributos [Total: 48 pontos]
 
-* **Força**: 12 [Máximo: 22] [Valor de Teste: 46]
-* **Vitalidade**: 10 [Máximo: 20] [Valor de Teste: 40]
-* **Agilidade**: 7 + 1 = 8 [Máximo: 20] [Valor de Teste: 31 + 3 = 34]*
+* **Força**: 13 [Máximo: 22] [Valor de Teste: 49]
+* **Vitalidade**: 11 [Máximo: 20] [Valor de Teste: 43]
+* **Agilidade**: 8 + 1 = 9 [Máximo: 20] [Valor de Teste: 34 + 3 = 37]*
 * **Velocidade**: 7 [Máximo: 20] [Valor de Teste: 28]
 * **Magia**: 1 [Máximo: 18] [Valor de Teste: 11]
 * **Espírito**: 8 [Máximo: 20] [Valor de Teste: 34]
 
 ### Estatísticas de Combate
 
-* **Evasão**: 14 + 4 + 1 = 19
+* **Evasão**: 15 + 4 + 1 = 20
 * **Evasão Mágica**: 9 + 1 = 10
-* **Armadura**: 8 + 25% = 10
+* **Armadura**: 8 + 30% = 10
 * **Armadura Mágica**: 4 + 20% = 5
-* **Destreza**: 69 + 2 = 71
+* **Destreza**: 70 + 2 = 72
 * **Mente**: 58
-* **Precisão**: 107 + 10 + 2 = 119
+* **Precisão**: 111 + 10 + 2 = 123
 * **Precisão Mágica**: 106
 
 ### Equipamento
@@ -68,17 +68,17 @@ nenhuma.
 
 #### Gerais
 
-* **Prontidão**: 52
+* **Prontidão**: 54
 
 #### Saber
 
-* **Ensinar**: 20
-* **Investigação**: 22
+* **Ensinar**: 25
+* **Investigação**: 25
 * **Língua Comum**: 50
-* **Conhecimento (História)**: 40
-* **Conhecimento (Monstros)**: 40
-* **Conhecimento (Ivalice)**: 50
-* **Conhecimento (Igreja de Glabados)**: 28
+* **Conhecimento (História)**: 44
+* **Conhecimento (Monstros)**: 48
+* **Conhecimento (Ivalice)**: 52
+* **Conhecimento (Igreja de Glabados)**: 32
 
 #### Artísticas
 
@@ -86,14 +86,14 @@ nenhuma.
 
 #### Sociais
 
-* **Liderança**: 52
-* **Etiqueta**: 20
-* **Intimidação**: 20
+* **Liderança**: 54
+* **Etiqueta**: 25
+* **Intimidação**: 25
 
 #### Técnicas
 
-* **Cura**: 30
-* **Ofício (Armeiro):** 20
+* **Cura**: 34
+* **Ofício (Armeiro):** 23
 
 #### Ladinas
 
@@ -101,7 +101,7 @@ nenhuma.
 
 #### Perícias com Armas
 
-* **Espadas**: 58
+* **Espadas**: 60
 
 #### Selvagens
 
@@ -118,6 +118,11 @@ nenhuma.
 * **Descrição:** a habilidade símbolos dos Cavaleiros das Runas. O cavaleiro prepara sua arma ou armadura, inscrita com runas mágicas, para absorver a próxima habilidade mágica lançada perto de si, independente da sua fonte. Essa habilidade afeta as escolas de magia Vermelha, Branca, Negra, do Tempo e Azul, exceto aquelas habilidades e magias cujo alvo seja Todos. Habilidades de monstros com custo de MP também são afetadas. O cavaleiro das runas recupera MP igual ao custo de MP da habilidade absorvida. Caso múltiplos cavaleiros estejam ativando *Runas*, o cavaleiro com mais MP absorverá a magia.
 
 ### Espada Inflexível
+
+#### Fury Brand [20 MP]
+* **Tipo:** habilidade mágica
+* **Alvo:** único.
+* **Descrição:** Causa (100% - Armadura) de dano físico no alvo, atingindo automaticamente, com 30% CdS de causar Berserk (4)
 
 #### Magia Intuitiva [Nível 1]
 
