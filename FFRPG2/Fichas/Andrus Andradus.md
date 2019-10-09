@@ -138,3 +138,7 @@ nenhuma.
 * 3x Tônico [Restaura 25 HP] [Venda: 12 gil]
 * 1x Poção Média [Restaura 125 HP] [Venda: 75 gil]
 * 1x Faca da Cegueira [2xFOR/AGI + d6] [Blind: Toque] [Faca] [Venda: 66 gil]
+
+#### Materiais
+
+- 1x  Escamas de Sahagin [5 CP] [Tier 1] [Venda: 25 gil]
