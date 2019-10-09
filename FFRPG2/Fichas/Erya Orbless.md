@@ -209,3 +209,8 @@ n/a
 * 2x Poção [Restaura 50 HP] [Venda: 25 gil]]
 * 4x Extrato [Restaura 15 MP] [Venda: 37 gil]
 * 1x Faca da Cegueira [2x(AGI/FOR) + d6] [Toque: Blind] [Venda: 66 gil]
+
+#### Materiais
+
+- 2x Língua de Flan [7 CP] [Tier 1] [Venda: 35 gil]
+- 1x  Barbatana Intacta [10 CP] [Tier 3] [Venda: 300 gil]
