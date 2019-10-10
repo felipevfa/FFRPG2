@@ -4,8 +4,7 @@
 * **Família do Monstro**: Humano
 * **Localização**: várias.
 
-* **Aparência**: 
-- [Imagem Genérica](https://vignette.wikia.nocookie.net/finalfantasy/images/2/20/FFT_Thief.jpg/revision/latest?cb=20090402231758)
+* **Aparência**: [Imagem Genérica](https://vignette.wikia.nocookie.net/finalfantasy/images/2/20/FFT_Thief.jpg/revision/latest?cb=20090402231758)
 
 * **Tamanho**: Pequeno
 * **Inteligência**: Alta
@@ -64,13 +63,13 @@
 
 #### Golpe com Faca
 
-* **Tipo**: Ataque Normal
-* **Alvo**: Único
-* **Código de Dano**: 2xAGI + d6 
-* **Chance de Sucesso**: Precisão, Evasão
-* **Modificadores**: nenhum.
-* **Modificador de XP**: +8
-* **Modificador de Gil**: +3
+* **Tipo**: Ataque Normal  
+* **Alvo**: Único  
+* **Código de Dano**: 2xAGI + d6  
+* **Chance de Sucesso**: Precisão, Evasão  
+* **Modificadores**: nenhum.  
+* **Modificador de XP**: +8  
+* **Modificador de Gil**: +3  
 
 ### Habilidades de Ação
 
@@ -90,24 +89,24 @@ nenhuma.
 
 ### Habilidades de Movimento
 
-**Movimento-Solo**
-**Descrição**: O monstro pode mover-se pelo solo.
+**Movimento-Solo**  
+**Descrição**: O monstro pode mover-se pelo solo.  
 
 ### Habilidades de Suporte
 
-**Acerto Crítico**
-**Descrição**: O monstro pode realizar acertos críticos do tipo **Padrão** (1 - 10).
-**Modificador de XP**: +8
-**Modificador de Gil**: +3
+**Acerto Crítico**  
+**Descrição**: O monstro pode realizar acertos críticos do tipo **Padrão** (1 - 10).  
+**Modificador de XP**: +8  
+**Modificador de Gil**: +3  
 
 - Acerto Crítico+ [Nível 20]
 
 ### Habilidades de Reação
 
-**Contra-Ataque**
-**Descrição**: O monstro é capaz de contra-atacar ataques físicos feitos contra ele. O *Assassino da Khamja (Ladrão)* possui 50% de chance de contra-atacar com **Golpe de Faca**.
-**Modificador de XP**: +14
-**Modificador de Gil**: +7
+**Contra-Ataque**  
+**Descrição**: O monstro é capaz de contra-atacar ataques físicos feitos contra ele. O *Assassino da Khamja (Ladrão)* possui 50% de chance de contra-atacar com **Golpe de Faca**.  
+**Modificador de XP**: +14  
+**Modificador de Gil**: +7  
 
 - Contra-Ataque+ [Nível 20]
 - Contra-Ataque++ [Nível 30]
