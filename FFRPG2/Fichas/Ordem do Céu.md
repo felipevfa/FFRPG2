@@ -38,7 +38,7 @@ A guilda não possui contratos de serviços.
 
 Nenhum bônus.
 
-**Próximo bônus:** Guilda Iniciante (Nível 3). Efetivamente a quantidade de Gil ganha em missões em 10%.
+**Próximo bônus:** Guilda Iniciante (Nível 3). Aumenta a quantidade de Gil ganha em missões em 10%.
 
 ## Inventário
 

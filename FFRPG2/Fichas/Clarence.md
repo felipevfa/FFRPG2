@@ -22,36 +22,36 @@
 
 ## Ficha Técnica
 
-* **Nível**: 6
-* **Experiência**: 1737/3000
+* **Nível**: 9
+* **Experiência**: 1797/4500
 * **Classe de Personagem**: Samurai
 * **Tipo de Classe**: Guerreiro
-* **Nível de Classe**: 6
+* **Nível de Classe**: 9
 
-* **HP**: 82 (d10)
+* **HP**: 119 (d10)
 * **MP**: n/a
 
 * **Gil:** 1459
 
-### Atributos [Total: 45 pontos]
+### Atributos [Total: 48 pontos]
 
-* **Força**: 11 [Máximo: 23] [Valor de Teste: 43]*
+* **Força**: 11 [Máximo: 23] [Valor de Teste: 43]
 * **Vitalidade**: 8 [Máximo: 22] [Valor de Teste: 34]
 * **Agilidade**: 5 [Máximo: 20] [Valor de Teste: 25]
-* **Velocidade**: 8 [Máximo: 20] [Valor de Teste: 34]
-* **Magia**: 11 [Máximo: 20] [Valor de Teste: 40]
+* **Velocidade**: 9 [Máximo: 20] [Valor de Teste: 37]
+* **Magia**: 13 [Máximo: 20] [Valor de Teste: 46]*
 * **Espírito**: 2 [Máximo: 15] [Valor de Teste: 16]
 
 ### Estatísticas de Combate
 
-* **Evasão**: 13
-* **Evasão Mágica**: 13
+* **Evasão**: 14
+* **Evasão Mágica**: 15
 * **Armadura**: 10 + 20% = 12
 * **Armadura Mágica**: 5 + 5% = 5
 * **Destreza**: 66
-* **Mente**: 76
-* **Precisão**: 105
-* **Precisão Mágica**: 126
+* **Mente**: 80
+* **Precisão**: 113
+* **Precisão Mágica**: 130
 
 ### Equipamento
 
@@ -82,16 +82,16 @@
 
 #### Gerais
 
-* **Prontidão**: 62
-* **Acrobacia**: 56
+* **Prontidão**: 68
+* **Acrobacia**: 62
 
 #### Saber
 
-* **Língua Comum**: 56
-* **Conhecimento (História)**: 54
-* **Conhecimento (Folclore)**: 54
-* **Conhecimento (Gallione)**: 50
-* **Conhecimento (Fé de Glabados)**: 43
+* **Língua Comum**: 60
+* **Conhecimento (História)**: 58
+* **Conhecimento (Folclore)**: 58
+* **Conhecimento (Gallione)**: 52
+* **Conhecimento (Fé de Glabados)**: 47
 
 #### Artísticas
 
@@ -99,7 +99,7 @@
 
 #### Sociais
 
-* **Liderança**: 44
+* **Liderança**: 52
 
 #### Técnicas
 
@@ -111,12 +111,12 @@
 
 #### Perícias com Armas
 
-* **Espadas**: 58
+* **Espadas**: 66
 
 #### Selvagens
 
-* **Treinar Animais**: 37
-* **Cavalgar (Chocobos)**: 52
+* **Treinar Animais**: 39
+* **Cavalgar (Chocobos)**: 54
 
 ### Bushido
 
@@ -143,10 +143,14 @@
         Tipo: lenta (2) - Alvo: único  
         Draw Out: 1  
         Efeito: Inflige Blind (6).  
+        
+#### Mineuchi [Nível 8]
+* **Tipo:** lenta (4) 
+* **Alvo:** único.
+* **Descrição:** carregando sua Katana com chi, o Samurai desfere um corte, batendo com a parte sem corte da arma, deixando o alvo contundido. Mineuchi possui uma CdS igual a (Destreza - Evasão) de forçar o alvo a desistir de seu próximo turno na Rodada. Se o alvo não possuir nenhum Ação na Rodada atual, Mineuchi não possui efeito. Entretanto, cada uso de Mineuchi possui uma CdS igual a (28 – Nível do Samurai) de que a Katana fique exausta com o ataque.
 
 ### Inventário
 
-* 1x Poção [Restaura 50 HP] [Venda: 25 gil]
 * 1x Extrato [Restaura 15 MP] [Venda: 37 gil]
 * 6x Tônico [Restaura 25 HP] [Venda: 12 gil]
 
