@@ -31,7 +31,7 @@
 * **HP**: 119 (d10)
 * **MP**: n/a
 
-* **Gil:** 1459
+* **Gil:** 21
 
 ### Atributos [Total: 48 pontos]
 
@@ -46,8 +46,8 @@
 
 * **Evasão**: 14
 * **Evasão Mágica**: 15
-* **Armadura**: 10 + 20% = 12
-* **Armadura Mágica**: 5 + 5% = 5
+* **Armadura**: 18 + 20% = 21
+* **Armadura Mágica**: 12 + 5% = 12
 * **Destreza**: 66
 * **Mente**: 80
 * **Precisão**: 113
@@ -57,9 +57,9 @@
 
 * **Arma**: Oborotsuki [2xFOR + d10] [Toque: Blind]
 * **Escudo**: --
-* **Corpo**: Leather Plate [+5 ARM. +3 ARM. M.] [Venda: 55 gil]
-* **Cabeça**: Leather Helm [+3 ARM. +1 ARM. M.] [Venda: 35 gil]
-* **Mãos**: Leather Glauntet [+2 ARM. +1 ARM. M.] [Venda: 32 gil]
+* **Corpo**: Bone Armor [+11 ARM. +7 ARM. M.] [Venda: 340]
+* **Cabeça**: Bronze Helm [+5 ARM. +4 ARM. M.] [Venda: 225 gil]
+* **Mãos**: Glit Gloves [+2 ARM. +1 ARM. M.] [Caçador de Cabeças] [Venda: 72 gil]
 * **Acessório**: --
 
 ### Vantagens
@@ -151,8 +151,10 @@
 
 ### Inventário
 
-* 1x Extrato [Restaura 15 MP] [Venda: 37 gil]
-* 6x Tônico [Restaura 25 HP] [Venda: 12 gil]
+* 1x Extract [Restaura 15 MP] [Venda: 37 gil]
+* 6x Tonic [Restaura 25 HP] [Venda: 12 gil]
+* 1x Ether [Restaura 30 MP] [Venda: 75 gil]
+* 2x Potion [Restaura 50 HP] [Venda: 25 gil]
 
 ### Glossário
 
