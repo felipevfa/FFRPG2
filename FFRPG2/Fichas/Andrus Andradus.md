@@ -25,7 +25,7 @@
 * **HP**: 146 (d10)
 * **MP**: 79 (d6)
 
-* **Gil:** 1.354
+* **Gil:** 304
 
 ### Atributos [Total: 48 pontos]
 
@@ -49,7 +49,7 @@
 
 ### Equipamento
 
-* **Arma:** Aço do Crepúsculo [2xFOR + d10] [Toque: Blind]
+* **Arma:** Sabre Flamejante [4xFOR + d10] [Ataque: Fogo[
 * **Escudo:** Escutcheon [+4 EVA. +1 EVA. M.] [+1 AGI]
 * **Corpo:** Armadura de Fogo [+5 ARM. +3 ARM. M.] [Resistência: Fogo]
 * **Cabeça:** Elmo do Soldado [+3 ARM. +1 ARM. M.] [+10 PREC.]
@@ -138,7 +138,7 @@ nenhuma.
 * 3x Tônico [Restaura 25 HP] [Venda: 12 gil]
 * 1x Poção Média [Restaura 125 HP] [Venda: 75 gil]
 * 1x Faca da Cegueira [2xFOR/AGI + d6] [Blind: Toque] [Faca] [Venda: 66 gil]
-
+* 1x Aço do Crepúsculo [2xFOR + d10] [Toque: Blind]
 #### Materiais
 
 - 1x  Escamas de Sahagin [5 CP] [Tier 1] [Venda: 25 gil]
