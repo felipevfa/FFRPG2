@@ -49,7 +49,7 @@
 
 ### Equipamento
 
-* **Arma:** Sabre Flamejante [4xFOR + d10] [Ataque: Fogo[
+* **Arma:** Sabre Flamejante [4xFOR + d10] [Ataque: Fogo]
 * **Escudo:** Escutcheon [+4 EVA. +1 EVA. M.] [+1 AGI]
 * **Corpo:** Armadura de Fogo [+5 ARM. +3 ARM. M.] [Resistência: Fogo]
 * **Cabeça:** Elmo do Soldado [+3 ARM. +1 ARM. M.] [+10 PREC.]
