@@ -54,7 +54,7 @@
 
 * **Arma:** Tomo Empoeirado [2xMAG + 1d6]
 * **Escudo:** n/a
-* **Corpo:** Manto de Algodão [+3 ARM. +5 ARM. M.]
+* **Corpo:** Manto do Sereno [+3 ARM. +3 ARM. M.] [Imunidade: Silence]
 * **Cabeça:** Chapéu Vermelho [+1 ARM. +3 ARM. M.] [+10 PREC. M.]
 * **Mãos:** Pulseira Sorológica [+1 ARM. +2 ARM. M.] [Imunidade: Poison]
 * **Acessório**: n/a
