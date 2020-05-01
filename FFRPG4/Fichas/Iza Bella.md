@@ -38,8 +38,8 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 * **Tipo de Classe**: Arqueira
 * **Nível de Classe**: 1
 
-* **HP**: 41 +1d10 (d10)
-* **MP**: 0 (d10)
+* **HP**: 41 (d10)
+* **MP**: 0
 
 * **Gil:** 62
 
