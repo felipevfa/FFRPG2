@@ -46,7 +46,7 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 ### Atributos [Total: 40 pontos]
 
 * **Força**: 1 [Máximo: 24] [Valor de Teste: 13]
-* **Vitalidade**: 10 [Máximo: 19] [Valor de Teste: 40]
+* **Vitalidade**: 10 [Máximo: 19] [Valor de Teste: 40]*
 * **Agilidade**: 12 [Máximo: 27] [Valor de Teste: 46]
 * **Velocidade**: 12 [Máximo: 22] [Valor de Teste: 46]
 * **Magia**: 1 [Máximo: 14] [Valor de Teste: 13]
