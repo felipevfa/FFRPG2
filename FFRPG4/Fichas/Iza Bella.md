@@ -58,10 +58,10 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 * **Evasão Mágica**: 6
 * **Armadura**: 6 + 25% = 7
 * **Armadura Mágica**: 9 + 15% = 10
-* **Destreza**: 75
-* **Mente**: 53
+* **Destreza**: 76
+* **Mente**: 54
 * **Precisão**: 108
-* **Precisão Mágica**: 103
+* **Precisão Mágica**: 104
 
 ### Equipamento
 
