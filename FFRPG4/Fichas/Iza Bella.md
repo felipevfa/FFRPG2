@@ -32,21 +32,21 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 
 ## Ficha Técnica
 
-* **Nível**: 1
-* **Experiência**: 240/500
+* **Nível**: 2
+* **Experiência**: 220/1000
 * **Classe de Personagem**: Guerreira
 * **Tipo de Classe**: Arqueira
-* **Nível de Classe**: 1
+* **Nível de Classe**: 2
 
-* **HP**: 49 (d10)
+* **HP**: 64 (d10)
 * **MP**: 0
 
-* **Gil:** 137
+* **Gil:** 317
 
 ### Atributos [Total: 40 pontos]
 
 * **Força**: 1 [Máximo: 24] [Valor de Teste: 13]
-* **Vitalidade**: 9 [Máximo: 19] [Valor de Teste: 37]
+* **Vitalidade**: 10 [Máximo: 19] [Valor de Teste: 40]
 * **Agilidade**: 12 [Máximo: 27] [Valor de Teste: 46]
 * **Velocidade**: 12 [Máximo: 22] [Valor de Teste: 46]
 * **Magia**: 1 [Máximo: 14] [Valor de Teste: 13]
@@ -60,7 +60,7 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 * **Armadura Mágica**: 9 + 15% = 10
 * **Destreza**: 75
 * **Mente**: 53
-* **Precisão**: 105
+* **Precisão**: 108
 * **Precisão Mágica**: 103
 
 ### Equipamento
@@ -107,24 +107,24 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 
 #### Gerais
 
-* **Acrobacia:** 50
-* **Prontidão:** 50
+* **Acrobacia:** 52
+* **Prontidão:** 52
 
 #### Saber
 
-* **Investigação:** 50
-* **Língua Comum:** 50
-* **Língua das Bestas:** 50
-* **Conhecimento (Artefatos):** 50
-* **Conhecimento (Monstros):** 40
+* **Investigação:** 52
+* **Língua Comum:** 52
+* **Língua das Bestas:** 52
+* **Conhecimento (Artefatos):** 52
+* **Conhecimento (Monstros):** 42
 * **Conhecimento (Terreno Subterrâneo):** 20
 
 #### Artísticas
 
 #### Sociais
 
-* **Lábia:** 50
-* **Sedução:** 50
+* **Lábia:** 52
+* **Sedução:** 52
 
 #### Técnicas
 
@@ -132,7 +132,7 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 
 #### Perícias com Armas
 
-* **Armas de Fogo:** 50
+* **Armas de Fogo:** 52
 
 #### Selvagens
 
