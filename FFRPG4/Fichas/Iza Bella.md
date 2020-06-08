@@ -33,7 +33,7 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 ## Ficha Técnica
 
 * **Nível**: 2
-* **Experiência**: 220/1000
+* **Experiência**: 340/1000
 * **Classe de Personagem**: Guerreira
 * **Tipo de Classe**: Arqueira
 * **Nível de Classe**: 2
@@ -41,7 +41,7 @@ Atualmente, Iza está feliz com seu estilo de vida. Não é muito bem visto pelo
 * **HP**: 64 (d10)
 * **MP**: 0
 
-* **Gil:** 317
+* **Gil:** 362
 
 ### Atributos [Total: 40 pontos]
 
